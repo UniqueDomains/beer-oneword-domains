@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BEER one-word domains still available to buy.
 
-This dataset contains 4,376 .BEER one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,375 .BEER one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BEER one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=beer-oneword-domains&utm_content=description.top) (4,377) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.BEER one word domains
 | aaa.beer        | available | 70       | 38%    | 3      |           |         |         |
 | abactinal.beer  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.beer      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.beer  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.beer  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.beer    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.beer     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.beer   | available | 54       | 1%     | 8      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.BEER one word domains
 | abaxial.beer    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.beer   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.beer  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.beer  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.beer  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.beer | available | 56       | 1%     | 10     |           |         |         |
 | abducens.beer   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.beer   | available | 68       | 1%     | 8      |           |         |         |
@@ -40,7 +40,7 @@ If you want to search & filters the complete database of [.BEER one word domains
 | abenaki.beer    | available | 82       | 3%     | 7      |           |         |         |
 | aberdonian.beer | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.beer   | available | 74       | 7%     | 8      |           |         |         |
-| abhorrent.beer  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.beer  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.beer    | available | 106      | 5%     | 7      |           |         |         |
 | abient.beer     | available | 54       | 1%     | 6      |           |         |         |
 | ability.beer    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BEER one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
