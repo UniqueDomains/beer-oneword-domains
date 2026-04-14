@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .beer one-word domains from Unique
 
 **Public extract:** 8,696 rows · **Live catalog:** 8,696 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/beer`  
 **Best for:** founders, investors, studios
 
@@ -75,7 +75,7 @@ print(df.head())
 | life.beer       | premium   | $104      | $104          | 84             | 50     | 4      | namecheap                                               |
 | athletics.beer  | available | $41.98    | —             | 69             | 52     | 9      | namecheap                                               |
 | hello.beer      | resell    | —         | —             | 130            | 70     | 5      | DNSPod, Inc.                                            |
-| pop.beer        | premium   | $500      | $45.99        | 82             | 43     | 3      | name.com                                                |
+| pop.beer        | premium   | $500      | $45.99        | 82             | 44     | 3      | name.com                                                |
 | fashion.beer    | available | $43.98    | —             | 80             | 44     | 7      | namecheap                                               |
 | domain.beer     | resell    | —         | —             | 80             | 64     | 6      | 22net, Inc.                                             |
 | energy.beer     | premium   | $2,600    | $31.20        | 82             | 43     | 6      | namecheap                                               |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEER One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEER One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
