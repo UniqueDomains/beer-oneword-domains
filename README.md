@@ -1,22 +1,22 @@
-# Available .BEER One-Word Domains (8,696)
+# Available .BEER One-Word Domains (11,347)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C696%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C696%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C347%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .beer one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .beer one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,347 domains** on the canonical page below.
 
-**Public extract:** 8,696 rows · **Live catalog:** 8,696 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,347 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/beer`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BEER one-word domain 
 
 ### Files
 
-- `beer.csv` — public CSV extract (8,696 rows)
-- `beer.json` — public JSON extract (8,696 rows)
+- `beer.csv` — public CSV extract (1,000 rows)
+- `beer.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| converse.beer   | available | $41.98    | —             | 64             | 73     | 8      | namecheap                                               |
-| care.beer       | resell    | $41.98    | —             | 80             | 40     | 4      | Dynadot Inc                                             |
-| ace.beer        | premium   | $500      | $45.99        | 88             | 57     | 3      | name.com                                                |
-| seventeen.beer  | available | $41.98    | —             | 84             | 62     | 9      | namecheap                                               |
-| mint.beer       | resell    | —         | —             | 72             | 78     | 4      | DNSPod, Inc.                                            |
-| art.beer        | premium   | $520      | $31.20        | 90             | 52     | 3      | namecheap                                               |
-| enterprise.beer | available | $41.98    | —             | 68             | 61     | 10     | namecheap                                               |
-| fire.beer       | resell    | —         | —             | 80             | 75     | 4      | Spaceship, Inc.                                         |
-| life.beer       | premium   | $104      | $104          | 84             | 50     | 4      | namecheap                                               |
-| athletics.beer  | available | $41.98    | —             | 69             | 52     | 9      | namecheap                                               |
-| hello.beer      | resell    | —         | —             | 130            | 70     | 5      | DNSPod, Inc.                                            |
-| pop.beer        | premium   | $500      | $45.99        | 82             | 44     | 3      | name.com                                                |
-| fashion.beer    | available | $43.98    | —             | 80             | 44     | 7      | namecheap                                               |
-| domain.beer     | resell    | —         | —             | 80             | 64     | 6      | 22net, Inc.                                             |
-| energy.beer     | premium   | $2,600    | $31.20        | 82             | 43     | 6      | namecheap                                               |
-| strategy.beer   | available | $41.98    | —             | 74             | 43     | 8      | namecheap                                               |
-| industry.beer   | resell    | —         | —             | 72             | 61     | 8      | Spaceship, Inc.                                         |
-| track.beer      | premium   | $100      | $100          | 94             | 42     | 5      | name.com                                                |
-| creator.beer    | available | $41.98    | —             | 70             | 43     | 7      | namecheap                                               |
-| cloud.beer      | resell    | —         | —             | 70             | 59     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| regions.beer      | available | $43.98    | —             | 64             | 59     | 7      | namecheap        |
+| jobs.beer         | resell    | —         | —             | 79             | 42     | 4      | DNSPod, Inc.     |
+| KFC.beer          | premium   | $56       | $35           | 74             | 27     | 3      | namecheap        |
+| matcha.beer       | available | $43.98    | —             | 86             | 39     | 6      | namecheap        |
+| trends.beer       | resell    | —         | —             | 60             | 32     | 6      | Spaceship, Inc.  |
+| shops.beer        | premium   | $2,500    | —             | 64             | 24     | 5      | name.com         |
+| neuroscience.beer | available | $43.98    | —             | 80             | 37     | 12     | namecheap        |
+| weave.beer        | resell    | —         | —             | 76             | 30     | 5      | GoDaddy.com, LLC |
+| girls.beer        | premium   | $2,500    | —             | 83             | 23     | 5      | name.com         |
+| tickets.beer      | available | $2.19     | $32.49        | 64             | 34     | 7      | namesilo         |
+| advertising.beer  | resell    | —         | —             | 80             | 28     | 11     | Spaceship, Inc.  |
+| pls.beer          | premium   | $50       | —             | 60             | 23     | 3      | name.com         |
+| partners.beer     | available | $43.98    | —             | 61             | 32     | 8      | namecheap        |
+| systems.beer      | resell    | —         | —             | 46             | 27     | 7      | GoDaddy.com, LLC |
+| watches.beer      | premium   | $50       | —             | 84             | 19     | 7      | name.com         |
+| popup.beer        | available | $43.98    | —             | 84             | 29     | 6      | namecheap        |
+| toys.beer         | resell    | —         | —             | 60             | 24     | 4      | GoDaddy.com, LLC |
+| states.beer       | premium   | $250      | —             | 70             | 16     | 6      | name.com         |
+| cams.beer         | available | $2.19     | $32.49        | 52             | 29     | 4      | namesilo         |
+| oceans.beer       | resell    | —         | —             | 64             | 22     | 6      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,696-row public sample | 8,696 live domains                               |
+| 1,000-row public sample | 11,347 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEER One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEER One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
