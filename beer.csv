@@ -390,7 +390,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 21c2954e-27ae-4f7d-9aa7-2d09584ee3d5,redial.beer,available,43.98,,71,6,6,namecheap,,
 21dae9a3-1cfd-414f-9846-6c09253c8113,partners.beer,available,43.98,,61,32,8,namecheap,,
 21eecb76-dfe5-4548-8ddc-07c816cf4e6a,reflects.beer,available,43.98,,50,6,8,namecheap,,
-22325a74-64cf-4591-8b7b-1b34bafb3f62,advertising.beer,resell,,,80,28,11,"Spaceship, Inc.",11/08/2025 19:02,11/08/2026 19:02
+22325a74-64cf-4591-8b7b-1b34bafb3f62,advertising.beer,resell,,,80,24,11,"Spaceship, Inc.",11/08/2025 19:02,11/08/2026 19:02
 225fef64-adaf-42df-bb14-e2ab2c9fef38,seconded.beer,available,43.98,,53,2,8,namecheap,,
 226d0d74-d9c8-458a-8321-0385075a1881,demonstrating.beer,available,43.98,,48,1,13,namecheap,,
 229d8c46-fef6-45b7-911a-04ff57f0b7ca,fellowmelad.beer,available,43.98,,62,1,13,namecheap,,
