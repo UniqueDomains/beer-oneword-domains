@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .beer one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,554 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,554 domains · **Median ask:** $54.64 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,554 domains · **Median ask:** $48.42 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/beer`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| regions.beer     | available | $43.98    | —             | 64             | 59     | 7      | namecheap        |
-| jobs.beer        | resell    | —         | —             | 79             | 42     | 4      | DNSPod, Inc.     |
-| KFC.beer         | premium   | $56       | $35           | 74             | 27     | 3      | namecheap        |
-| matcha.beer      | available | $43.98    | —             | 86             | 39     | 6      | namecheap        |
-| trends.beer      | resell    | —         | —             | 60             | 32     | 6      | Spaceship, Inc.  |
-| shops.beer       | premium   | $2,500    | —             | 64             | 24     | 5      | name.com         |
-| tickets.beer     | available | $2.19     | $32.49        | 64             | 34     | 7      | namesilo         |
-| weave.beer       | resell    | —         | —             | 76             | 30     | 5      | GoDaddy.com, LLC |
-| girls.beer       | premium   | $2,500    | —             | 83             | 23     | 5      | name.com         |
-| partners.beer    | available | $43.98    | —             | 61             | 31     | 8      | namecheap        |
-| systems.beer     | resell    | —         | —             | 46             | 27     | 7      | GoDaddy.com, LLC |
-| pls.beer         | premium   | $50       | —             | 60             | 23     | 3      | name.com         |
-| cams.beer        | available | $2.19     | $32.49        | 52             | 29     | 4      | namesilo         |
-| advertising.beer | resell    | —         | —             | 80             | 24     | 11     | Spaceship, Inc.  |
-| watches.beer     | premium   | $50       | —             | 84             | 19     | 7      | name.com         |
-| popup.beer       | available | $43.98    | —             | 84             | 28     | 6      | namecheap        |
-| toys.beer        | resell    | —         | —             | 60             | 24     | 4      | GoDaddy.com, LLC |
-| reps.beer        | premium   | $47.20    | $29.50        | 73             | 16     | 4      | namesilo         |
-| forms.beer       | available | $43.98    | —             | 54             | 28     | 5      | namecheap        |
-| oceans.beer      | resell    | —         | —             | 64             | 22     | 6      | GoDaddy.com, LLC |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| macedonia.beer | available | $2.19     | $32.49        | 70             | 87     | 9      | namesilo                                                |
+| hello.beer     | resell    | —         | —             | 130            | 71     | 5      | DNSPod, Inc.                                            |
+| moon.beer      | premium   | $2,500    | —             | 78             | 53     | 4      | name.com                                                |
+| Citibank.beer  | available | $2.19     | $32.49        | 70             | 67     | 8      | namesilo                                                |
+| industry.beer  | resell    | —         | —             | 72             | 58     | 8      | Spaceship, Inc.                                         |
+| ink.beer       | premium   | $500      | —             | 94             | 51     | 3      | name.com                                                |
+| Shrek.beer     | available | $43.98    | —             | 84             | 63     | 5      | namecheap                                               |
+| happy.beer     | resell    | —         | —             | 78             | 48     | 5      | DNSPod, Inc.                                            |
+| startup.beer   | premium   | $96       | $29.50        | 82             | 49     | 7      | namesilo                                                |
+| stellar.beer   | available | $43.98    | —             | 78             | 49     | 7      | namecheap                                               |
+| weather.beer   | resell    | —         | —             | 118            | 43     | 7      | Porkbun                                                 |
+| water.beer     | premium   | $43.98    | —             | 108            | 45     | 5      | namecheap                                               |
+| momentum.beer  | available | $43.98    | —             | 74             | 47     | 8      | namecheap                                               |
+| story.beer     | resell    | —         | —             | 70             | 43     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| bio.beer       | premium   | $500      | —             | 78             | 44     | 3      | name.com                                                |
+| platform.beer  | available | $1.99     | —             | 92             | 46     | 8      | name.com                                                |
+| amazing.beer   | resell    | —         | —             | 78             | 37     | 7      | Spaceship, Inc.                                         |
+| energy.beer    | premium   | $2,600    | $31.20        | 82             | 43     | 6      | namecheap                                               |
+| warp.beer      | available | $2.19     | $32.49        | 90             | 44     | 4      | namesilo                                                |
+| land.beer      | resell    | —         | —             | 62             | 35     | 4      | Spaceship, Inc.                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEER One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEER One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
