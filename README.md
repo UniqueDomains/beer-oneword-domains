@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .beer one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,694 domains · **Median ask:** $25.74 · **High-demand under $2,500:** 14
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/beer`
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | lava.beer  | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
 | bio.beer   | premium   | $500      | —             | high           | medium | 3      | name.com         |
 | ashy.beer  | available | $1.98     | $43.98        | low            | low    | 4      | namecheap        |
-| zone.beer  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| zone.beer  | resell    | —         | —             | high           | low    | 4      | Sav.com LLC      |
 | cap.beer   | premium   | $500      | —             | high           | low    | 3      | name.com         |
 | aunt.beer  | available | $2.19     | $32.49        | high           | low    | 4      | namesilo         |
 | chain.beer | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEER One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEER One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
