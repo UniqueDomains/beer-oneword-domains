@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .beer one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,342 domains · **Median ask:** $22.37 · **High-demand under $2,500:** 13
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/beer`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| hello.beer | resell    | —         | —             | high           | high   | 5      | DNSPod, Inc.     |
 | agog.beer  | available | $1.98     | $43.98        | low            | low    | 4      | namecheap        |
 | base.beer  | resell    | —         | —             | low            | low    | 4      | Sav.com LLC      |
 | aft.beer   | premium   | $500      | $46.99        | low            | low    | 3      | name.com         |
@@ -84,6 +83,7 @@ print(df.head())
 | happy.beer | resell    | —         | —             | high           | medium | 5      | DNSPod, Inc.     |
 | ccc.beer   | premium   | $500      | $46.99        | low            | medium | 3      | name.com         |
 | away.beer  | available | $2.19     | $32.49        | medium         | low    | 4      | namesilo         |
+| hello.beer | resell    | —         | —             | high           | high   | 5      | DNSPod, Inc.     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEER One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEER One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
