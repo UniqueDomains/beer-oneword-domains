@@ -1,10 +1,10 @@
-# Available .BEER One-Word Domains (21,925)
+# Available .BEER One-Word Domains (24,009)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C925%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C009%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .beer one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,925 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,009 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,925 domains · **Median ask:** $39.39 · **High-demand under $2,500:** 21
+**Public extract:** 1,000 rows · **Live catalog:** 24,009 domains · **Median ask:** $40.08 · **High-demand under $2,500:** 27
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/beer`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| achy.beer     | available | $1.98     | $43.98        | medium         | low    | 4      | namecheap                                               |
-| best.beer     | resell    | —         | —             | high           | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| age.beer      | premium   | $96       | $29.50        | high           | low    | 3      | namesilo                                                |
-| agar.beer     | available | $2.19     | $32.49        | medium         | low    | 4      | namesilo                                                |
-| heavy.beer    | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                        |
-| alp.beer      | premium   | $512      | $29.50        | high           | low    | 3      | namesilo                                                |
-| ahuh.beer     | available | $2.19     | $32.49        | medium         | low    | 4      | namesilo                                                |
-| steam.beer    | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC                                        |
-| ash.beer      | premium   | $500      | —             | high           | low    | 3      | name.com                                                |
-| alga.beer     | available | $2.19     | $32.49        | high           | low    | 4      | namesilo                                                |
-| monkey.beer   | resell    | —         | —             | high           | low    | 6      | DNSPod, Inc.                                            |
-| asl.beer      | premium   | $52       | $32.50        | high           | low    | 3      | namecheap                                               |
-| aten.beer     | available | $1.98     | $43.98        | medium         | low    | 4      | namecheap                                               |
-| talent.beer   | resell    | —         | —             | high           | medium | 6      | GoDaddy Online Services Cayman Islands Ltd.             |
-| azo.beer      | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo                                                |
-| aton.beer     | available | $1.98     | $43.98        | medium         | low    | 4      | namecheap                                               |
-| special.beer  | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 10                                       |
-| azt.beer      | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo                                                |
-| ayah.beer     | available | $2.19     | $32.49        | high           | low    | 4      | namesilo                                                |
-| european.beer | resell    | —         | —             | high           | low    | 8      | Sav.com LLC                                             |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| achy.beer    | available | $1.98     | $43.98        | medium         | low    | 4      | namecheap                                               |
+| best.beer    | resell    | —         | —             | high           | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| age.beer     | premium   | $96       | $29.50        | high           | low    | 3      | namesilo                                                |
+| agar.beer    | available | $2.19     | $32.49        | medium         | low    | 4      | namesilo                                                |
+| heavy.beer   | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                        |
+| alp.beer     | premium   | $512      | $29.50        | high           | low    | 3      | namesilo                                                |
+| ahuh.beer    | available | $2.19     | $32.49        | medium         | low    | 4      | namesilo                                                |
+| joker.beer   | resell    | —         | —             | high           | low    | 5      | —                                                       |
+| ash.beer     | premium   | $414.20   | $26.08        | high           | medium | 3      | spaceship                                               |
+| alga.beer    | available | $2.19     | $32.49        | high           | low    | 4      | namesilo                                                |
+| steam.beer   | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC                                        |
+| asl.beer     | premium   | $52       | $32.50        | high           | low    | 3      | namecheap                                               |
+| aten.beer    | available | $1.98     | $43.98        | medium         | low    | 4      | namecheap                                               |
+| monkey.beer  | resell    | —         | —             | high           | low    | 6      | DNSPod, Inc.                                            |
+| azo.beer     | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo                                                |
+| aton.beer    | available | $1.98     | $43.98        | medium         | low    | 4      | namecheap                                               |
+| talent.beer  | resell    | —         | —             | high           | medium | 6      | GoDaddy Online Services Cayman Islands Ltd.             |
+| azt.beer     | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo                                                |
+| ayah.beer    | available | $2.19     | $32.49        | high           | low    | 4      | namesilo                                                |
+| special.beer | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 10                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,925 live domains                        |
+| 1,000-row public sample | 24,009 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 21 high-demand names under $2,500          |
+| Basic exported fields   | 27 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEER One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEER One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
