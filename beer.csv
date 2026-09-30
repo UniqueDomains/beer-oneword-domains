@@ -3,9 +3,10 @@ dea41dd4-7868-4609-8b86-201dc14e319b,oval.beer,available,2.19,32.49,high,low,4,n
 aa691fcd-3a81-46fe-a339-67060259e526,amicably.beer,available,1.98,43.98,medium,low,8,namecheap,,,13/09/2026 19:29
 63e57de4-6d19-40ae-a71b-ca0366ba900f,usually.beer,available,25.2,25.2,medium,low,7,cloudflare,,,28/09/2026 14:12
 0afad6d9-3a8f-46fe-a32e-0cb534099cec,anybody.beer,available,43.98,,medium,low,7,namecheap,,,
-dd2b283b-278c-4a23-a656-f1f01f37a9f2,cropped.beer,available,1.98,43.98,medium,low,7,namecheap,,,13/08/2026 07:53
+dd2b283b-278c-4a23-a656-f1f01f37a9f2,cropped.beer,available,1.98,43.98,high,low,7,namecheap,,,13/08/2026 07:53
 4ff6fe88-bf68-48df-8434-ebdc3a30bb86,socks.beer,available,2.19,32.49,high,low,5,namesilo,,,27/09/2026 08:18
 2a2db9fa-4506-4011-a055-0e41acd708c0,learned.beer,available,1.98,43.98,high,low,7,namecheap,,,23/09/2026 19:31
+b7e117d0-0e89-45aa-a578-74dc3ab3f0db,consulted.beer,available,25.2,25.2,medium,low,9,cloudflare,,,29/09/2026 16:59
 85881d6f-a7eb-46cd-b469-3c1ade55055a,azoic.beer,available,1.98,43.98,medium,low,5,namecheap,,,08/08/2026 02:22
 062999dc-9679-4ee6-be02-ca280f9da42e,grassy.beer,available,1.98,43.98,high,low,6,namecheap,,,20/08/2026 18:20
 b88dce17-c74e-4abe-abc1-f101cacf7ebb,unskilled.beer,available,1.98,43.98,medium,low,9,namecheap,,,
@@ -14,16 +15,17 @@ f05481b6-0538-4c01-a040-b02fd9decd8d,gushing.beer,available,1.98,43.98,high,low,
 6ecdb4bb-2f27-4abd-a92b-695a6647e69c,portholes.beer,available,2.19,32.49,low,low,9,namesilo,,,19/09/2026 21:54
 2da61b2c-0e91-4ebe-b509-a4f8c11491fd,wolfsbane.beer,available,2.19,32.49,medium,low,9,namesilo,,,17/09/2026 02:06
 b3033c90-7d4a-494e-b44a-22882c3f702c,swing.beer,available,1.24,26.08,high,low,5,spaceship,,,28/09/2026 02:11
-233c0975-ab15-4861-812d-197c55a59279,kepler.beer,available,1.54,26.26,medium,low,6,porkbun,,,29/09/2026 01:24
+233c0975-ab15-4861-812d-197c55a59279,kepler.beer,available,1.54,26.26,high,low,6,porkbun,,,29/09/2026 01:24
 1377f1b0-9168-424d-bee5-19fdaf70a2b3,possible.beer,available,2.19,32.49,high,low,8,namesilo,,,27/09/2026 04:44
 d63ca188-1ade-4dab-b026-4bf7df2c1372,dextral.beer,available,1.98,43.98,medium,low,7,namecheap,,,14/08/2026 05:28
 73de8b0f-d37a-4053-b014-35426ca95a00,illusional.beer,available,1.98,43.98,medium,low,10,namecheap,,,21/08/2026 20:11
-cd362780-25ff-4bb0-b635-85b8cb0c483f,conscience.beer,available,2.19,32.49,high,low,10,namesilo,,,
+cd362780-25ff-4bb0-b635-85b8cb0c483f,conscience.beer,available,2.19,32.49,high,low,10,namesilo,,,29/09/2026 11:04
 0d3e0fa7-5062-493a-aeac-88a6ec298bac,bathymetry.beer,available,2.19,32.49,medium,low,10,namesilo,,,22/09/2026 13:55
 83d210fe-e756-4430-a1e2-43e937cbbf42,achy.beer,available,1.98,43.98,medium,low,4,namecheap,,,
 ecf7fc09-e81f-4cd8-9a9e-7518940bb908,nookie.beer,available,1.98,43.98,medium,low,6,namecheap,,,18/08/2026 17:31
 7f76860b-0ba2-4f0f-b0c5-8bed6f1d92bd,vial.beer,premium,47.2,29.5,high,low,4,namesilo,,,18/09/2026 23:48
 a64534ab-9477-4557-a726-5e9e02480068,feetfirst.beer,available,1.98,43.98,medium,low,9,namecheap,,,14/09/2026 18:20
+280b8953-c2a7-4ce9-aa3a-05e1a9bc2339,advancement.beer,available,2.19,32.49,high,low,11,namesilo,,,29/09/2026 10:15
 c5fb2f58-8ccd-42a7-9d89-eb4c4dac3fd4,verbs.beer,available,2.19,32.49,medium,low,5,namesilo,,,
 7ef0ea78-536a-46cf-9f9f-9809cade1050,bellhop.beer,available,2.19,32.49,high,low,7,namesilo,,,23/09/2026 06:01
 190d431a-8462-4b3b-95df-e26ee599672d,ruinous.beer,available,1.98,43.98,medium,low,7,namecheap,,,10/08/2026 13:28
@@ -31,8 +33,9 @@ c5fb2f58-8ccd-42a7-9d89-eb4c4dac3fd4,verbs.beer,available,2.19,32.49,medium,low,
 fff2eaa4-2784-49e1-99ee-66063669179c,julien.beer,available,2.19,32.49,high,low,6,namesilo,,,28/09/2026 03:56
 de2adba6-7104-4abf-8e5d-2042134f05ac,flashing.beer,available,25.2,25.2,medium,low,8,cloudflare,,,28/09/2026 19:14
 d1d602a4-6299-452e-82f4-aea9160c9d5d,rounded.beer,premium,47.2,29.5,high,low,7,namesilo,,,19/09/2026 15:40
-d0161942-9fad-4f16-89af-d18da159de3d,exec.beer,available,2.19,32.49,high,low,4,namesilo,,,
+d0161942-9fad-4f16-89af-d18da159de3d,exec.beer,available,1.5,26.97,high,low,4,dynadot,,,29/09/2026 18:26
 21f6a72b-b3d2-4361-8e1e-7b3a9712b884,inhabit.beer,available,1.98,43.98,high,low,7,namecheap,,,24/08/2026 07:51
+5161fc77-1d50-4c16-b6e1-8ad859fd363f,orville.beer,available,25.2,25.2,high,low,7,cloudflare,,,29/09/2026 09:46
 0ee30807-658e-472e-9b17-552c059663a4,chard.beer,available,2.19,32.49,medium,low,5,namesilo,,,23/09/2026 10:59
 aeb4bfdf-deca-4132-9e4b-dd067ed2e44b,vicenary.beer,available,1.98,43.98,medium,low,8,namecheap,,,13/09/2026 05:21
 221bed71-4185-402c-b745-dd53dd540e50,oklahoma.beer,premium,242,29.5,high,low,8,namesilo,,,26/09/2026 00:08
@@ -42,10 +45,12 @@ c60b21b5-8cd1-4b31-a1fa-6095b2421b1f,monkey.beer,resell,,,high,low,6,"DNSPod, In
 27072762-7e0f-43b3-b138-c4ee1061b59c,pugin.beer,available,2.19,32.49,medium,low,5,namesilo,,,21/09/2026 04:06
 ecbe6936-9d5f-4f0b-b56c-0d0181a3bb04,rugged.beer,available,1.98,43.98,high,low,6,namecheap,,,18/08/2026 18:56
 ec10b891-5854-47c9-a5e3-e311d9c9ca28,adamson.beer,available,2.19,32.49,medium,low,7,namesilo,,,28/09/2026 17:25
+74b34f84-d425-4231-aeee-60b2ef2cf8a7,securities.beer,available,2.19,32.49,medium,low,10,namesilo,,,29/09/2026 22:51
 783a8b7d-3f26-48f3-93b3-07cbc2787d78,officious.beer,available,1.98,43.98,medium,low,9,namecheap,,,11/08/2026 11:26
 ae7be154-38f2-4331-a4cd-0c25c5b4dc99,smoky.beer,available,1.98,43.98,medium,low,5,namecheap,,,10/09/2026 11:59
 e1767f51-93a6-46b4-b3c5-49c80a266905,scheme.beer,available,,,high,low,6,,,,
 db3f71d0-c581-4ef5-9bbd-7013e6c3edff,history.beer,premium,47.2,29.5,high,low,7,namesilo,,,28/09/2026 17:27
+1d5f956e-d0cd-4bf9-b47c-c1f4f7582bca,tribunal.beer,available,1.24,26.08,high,low,8,spaceship,,,30/09/2026 01:07
 2fa747ab-671a-41b0-acd9-e39b4f32371b,hutton.beer,available,1.98,43.98,high,low,6,namecheap,,,25/09/2026 07:41
 a3e10578-f4c4-474e-80f1-62c45c5d894d,variation.beer,available,1.98,43.98,high,low,9,namecheap,,,03/09/2026 11:43
 6dd42b82-885a-4e25-8ff9-032dc7513617,awakening.beer,available,25.2,25.2,high,low,9,cloudflare,,,28/09/2026 23:36
@@ -54,23 +59,24 @@ a3e10578-f4c4-474e-80f1-62c45c5d894d,variation.beer,available,1.98,43.98,high,lo
 97976ae2-e1f7-4f4e-b1ea-3870680bec3a,instance.beer,available,2.19,32.49,high,low,8,namesilo,,,25/09/2026 22:06
 e818fd7d-5acd-4d67-a495-2a2df9062552,venter.beer,available,1.98,43.98,medium,low,6,namecheap,,,16/09/2026 14:46
 95d1d0b5-f748-4334-90f1-3c4584222785,mummy.beer,available,1.24,26.08,high,low,5,spaceship,,,28/09/2026 10:18
-3866abdc-66ea-48cc-a2fb-cc86e0ee855a,excursion.beer,available,2.19,32.49,high,low,9,namesilo,,,
+3866abdc-66ea-48cc-a2fb-cc86e0ee855a,excursion.beer,available,1.98,43.98,high,low,9,namecheap,,,29/09/2026 18:22
 340defad-f5fb-49f8-be4e-0fcb5a31eb82,fully.beer,available,1.98,43.98,high,low,5,namecheap,,,18/08/2026 17:52
 5c02857c-2653-4b5d-84ba-d2405dc6fbcb,scrunch.beer,available,1.98,43.98,medium,low,7,namecheap,,,13/08/2026 07:18
 87799c64-333a-4402-8056-5c47f23aec0c,understandable.beer,available,2.19,32.49,high,low,14,namesilo,,,
 26b4015b-5233-4401-964a-826a1ee7e632,nutritive.beer,available,1.98,43.98,high,low,9,namecheap,,,08/09/2026 09:04
 3c645a45-5395-4ed3-a7cf-64d8839b6d3c,gingery.beer,available,1.98,43.98,high,low,7,namecheap,,,18/08/2026 23:53
-98c4deba-8dbf-4497-b361-c9740e8d5fa7,incidence.beer,available,2.19,32.49,high,low,9,namesilo,,,
+98c4deba-8dbf-4497-b361-c9740e8d5fa7,incidence.beer,available,1.24,26.08,high,low,9,spaceship,,,29/09/2026 23:46
 a0128d69-22ab-4c51-9c5d-72dfd6a4286a,yogic.beer,available,1.98,43.98,medium,low,5,namecheap,,,13/09/2026 14:41
 6ee78d43-ef72-4e77-96f2-95d5a34fdd93,expand.beer,available,2.19,32.49,high,low,6,namesilo,,,24/09/2026 13:38
 aa220e9b-c059-4c1c-8098-5fe13f39c0be,ahuh.beer,available,2.19,32.49,medium,low,4,namesilo,,,
 e07874d7-d99d-46d6-92dd-32f62fb8ac52,cytolytic.beer,available,1.99,46.99,medium,low,9,name.com,,,13/08/2026 14:42
 e6089ff5-0bd7-44db-9585-653658ec5be2,hooligan.beer,available,1.98,43.98,medium,low,8,namecheap,,,11/08/2026 08:39
-1cb90811-4e77-449b-88bc-1cf344406076,trickster.beer,available,2.19,32.49,medium,low,9,namesilo,,,23/09/2026 02:57
+1cb90811-4e77-449b-88bc-1cf344406076,trickster.beer,available,2.19,32.49,high,low,9,namesilo,,,23/09/2026 02:57
 d9a7d3cf-ed6a-4796-bdca-daacc04a3690,inimitable.beer,available,1.98,43.98,high,low,10,namecheap,,,22/08/2026 05:23
 e81d1846-83c1-4782-a072-2b77ccc37315,wanness.beer,available,2.19,32.49,medium,low,7,namesilo,,,17/09/2026 01:08
+f7e8829e-9c2f-4da4-ac16-e4be86db7963,casper.beer,available,1.24,26.08,high,low,6,spaceship,,,29/09/2026 18:15
 a95d02b5-8bfe-41ee-987e-a50798e4db2d,custard.beer,available,1.98,43.98,high,low,7,namecheap,,,24/09/2026 20:38
-6950f81e-389d-4555-8b38-c6acd7119491,thwart.beer,available,1.98,43.98,medium,low,6,namecheap,,,09/09/2026 08:15
+6950f81e-389d-4555-8b38-c6acd7119491,thwart.beer,available,1.98,43.98,high,low,6,namecheap,,,09/09/2026 08:15
 f6d89c8e-eb5e-4dad-b5d2-3cec78dc4226,performing.beer,available,1.98,43.98,high,low,10,namecheap,,,
 de27c21f-7f41-4eb1-b4c6-d1f3ae565fb4,king.beer,premium,2070.2,26.08,high,medium,4,spaceship,,,28/09/2026 23:59
 63a8f2bd-301b-4777-83a1-942debd7deb7,tellurium.beer,available,2.19,32.49,medium,low,9,namesilo,,,20/09/2026 23:13
@@ -81,7 +87,7 @@ fff3916c-c1cd-46ac-af28-2bf2252e07db,typewriters.beer,available,2.19,32.49,mediu
 87824549-e05c-4b01-a344-691455f120c8,evitable.beer,available,1.98,43.98,medium,low,8,namecheap,,,07/08/2026 22:45
 7e7d2518-b859-4ea6-b3eb-f0f439c97b74,stick.beer,available,25.2,25.2,high,low,5,cloudflare,,,29/09/2026 00:24
 b17ba823-0da8-4882-ab3f-dcab7bc5fb8b,downtime.beer,available,2.19,32.49,high,low,8,namesilo,,,24/09/2026 23:41
-f6d4002d-99d0-4490-89ca-c2694b47c1a7,rode.beer,available,25.2,25.2,medium,low,4,cloudflare,,,28/09/2026 11:10
+f6d4002d-99d0-4490-89ca-c2694b47c1a7,rode.beer,available,25.2,25.2,high,low,4,cloudflare,,,28/09/2026 11:10
 0d4b10fb-4399-4d33-bf88-6822eb8bb69a,brief.beer,available,1.98,43.98,high,low,5,namecheap,,,21/09/2026 13:42
 df2b4ca0-1d3d-40d2-adc4-f016a481af34,taxi.beer,available,2.19,32.49,high,low,4,namesilo,,,24/09/2026 11:29
 dfccaa17-c573-48ac-97f8-755e98e57c0d,domed.beer,available,1.98,43.98,high,low,5,namecheap,,,14/08/2026 15:37
@@ -89,16 +95,19 @@ dfccaa17-c573-48ac-97f8-755e98e57c0d,domed.beer,available,1.98,43.98,high,low,5,
 a247d109-81d2-445c-8cea-41fd296876b2,rimy.beer,premium,47.2,29.5,medium,low,4,namesilo,,,09/09/2026 17:41
 d8741e39-84e9-4556-879c-2f64306c0f5f,mls.beer,premium,83,26.08,high,low,3,spaceship,,,28/09/2026 02:21
 9f594dc6-316e-4f0a-8ea4-ff6a748870c2,subdue.beer,available,1.98,43.98,high,low,6,namecheap,,,11/09/2026 07:44
-3b022c62-77c9-4350-b2e9-1b583514f36f,wrinkle.beer,available,1.98,43.98,medium,low,7,namecheap,,,13/08/2026 07:11
+3b022c62-77c9-4350-b2e9-1b583514f36f,wrinkle.beer,available,1.98,43.98,high,low,7,namecheap,,,13/08/2026 07:11
 891469c1-4a31-47bf-bdff-a27f038e04e2,vagal.beer,available,1.98,43.98,medium,low,5,namecheap,,,08/09/2026 22:07
 c45308f7-190d-4924-ab6d-116ca86eb78d,porkfish.beer,available,2.19,32.49,medium,low,8,namesilo,,,19/09/2026 09:38
 813aa3f1-aba1-43ba-a464-045eae2d23b3,mediaeval.beer,available,1.98,43.98,medium,low,9,namecheap,,,24/08/2026 18:49
 630c8d74-261a-49ff-b248-6bd97c8a6425,banger.beer,premium,2660,29.5,high,low,6,namesilo,,,22/09/2026 01:46
 46da2850-9ff1-4dae-9cab-ec482cf8a7b9,iso.beer,available,,,high,high,3,,,,
-6e3af816-78d2-4dbe-a9d7-2592acbe1692,talent.beer,resell,,,high,medium,6,GoDaddy Online Services Cayman Islands Ltd.,04/02/2015 19:53,04/02/2027 19:53,26/09/2026 09:30
+6e3af816-78d2-4dbe-a9d7-2592acbe1692,talent.beer,resell,,,high,medium,6,GoDaddy Online Services Cayman Islands Ltd.,04/02/2015 19:53,04/02/2027 19:53,29/09/2026 18:11
+9893991b-e944-41b5-81eb-b518fccd7eb6,currents.beer,available,25.2,25.2,medium,low,8,cloudflare,,,29/09/2026 17:16
 57192104-59bf-4ec8-b7c8-b9ffe4948c09,neurotoxic.beer,available,1.98,43.98,medium,low,10,namecheap,,,03/09/2026 16:25
 97c26f2c-9667-4f93-81b1-ae202c217b56,awarding.beer,available,1.24,26.08,high,low,8,spaceship,,,28/09/2026 23:40
+88a5d67e-0787-4fbe-a716-021a14bb233d,crichton.beer,available,1.24,26.08,medium,low,8,spaceship,,,30/09/2026 01:11
 6fa6a63a-5edb-4968-9608-451b90a22e30,baneful.beer,available,1.98,43.98,low,low,7,namecheap,,,08/08/2026 09:44
+98d534ff-24d6-43f4-83b6-3eda5d4fd5ac,circumstance.beer,available,1.98,43.98,high,low,12,namecheap,,,29/09/2026 08:31
 2ba4059a-4eeb-40cd-8512-e35e4f6fb111,dahl.beer,available,1.98,43.98,high,low,4,namecheap,,,28/09/2026 09:14
 a40e9380-46eb-47c6-be43-b6ef0f7923a7,unlogical.beer,available,1.98,43.98,low,low,9,namecheap,,,21/08/2026 20:07
 223a8550-712a-4210-845e-ff5727dd160d,aten.beer,available,1.98,43.98,medium,low,4,namecheap,,,20/09/2026 20:04
@@ -113,7 +122,7 @@ a389caab-a035-4cc0-a1ba-9ce56511129f,moulding.beer,available,2.19,32.49,medium,l
 d46f2381-cf0e-4436-9f08-b39aadd026f9,antipodes.beer,available,2.19,32.49,medium,low,9,namesilo,,,19/09/2026 14:59
 1498750c-99af-4aa3-9781-b7f488f9dcc2,discoid.beer,available,1.98,43.98,medium,low,7,namecheap,,,14/08/2026 09:38
 fb7c43a1-48c5-4a60-9a96-93d58aec577a,doctors.beer,available,2.19,32.49,high,low,7,namesilo,,,18/09/2026 07:41
-c632e1f4-8950-467e-9a86-57c1af802846,daylight.beer,available,43.98,,high,low,8,namecheap,,,
+c632e1f4-8950-467e-9a86-57c1af802846,daylight.beer,available,1.98,43.98,high,low,8,namecheap,,,29/09/2026 13:19
 1a21f947-520a-4caf-af61-f2cc3b710016,pager.beer,available,2.19,32.49,high,low,5,namesilo,,,23/09/2026 01:32
 ba9a99e6-6fb0-4a0e-845b-a53ba5a63eab,presumably.beer,available,1.98,43.98,medium,low,10,namecheap,,,15/09/2026 21:20
 d0918ac7-869e-4866-a8f3-873b0aa2f3f1,anisette.beer,available,1.98,43.98,high,low,8,namecheap,,,19/09/2026 09:29
@@ -134,11 +143,12 @@ a10dd66c-0450-45ed-b467-f57eb6e7d234,customs.beer,available,2.19,32.49,high,low,
 b4dc34a4-6d24-46b5-aa53-af177db5961a,methodical.beer,available,1.98,43.98,high,low,10,namecheap,,,24/08/2026 21:56
 922cea2f-486d-4b0b-81af-c71d27312c42,ambled.beer,available,1.98,43.98,medium,low,6,namecheap,,,20/09/2026 05:58
 35000c97-7020-4103-a7e3-974208859133,missional.beer,available,1.98,43.98,medium,low,9,namecheap,,,25/08/2026 01:50
-0f6922cf-9742-4681-b609-dfb5812fd7e5,dismissal.beer,available,2.19,32.49,high,low,9,namesilo,,,
-3e46821f-bbb0-4b01-9884-2e8775030af2,confront.beer,available,1.24,26.08,medium,low,8,spaceship,,,28/09/2026 09:44
+0f6922cf-9742-4681-b609-dfb5812fd7e5,dismissal.beer,available,2.19,32.49,high,low,9,namesilo,,,29/09/2026 15:57
+3e46821f-bbb0-4b01-9884-2e8775030af2,confront.beer,available,1.24,26.08,high,low,8,spaceship,,,28/09/2026 09:44
 a9290254-927f-490f-9ca3-53b3f7eb53df,objections.beer,available,1.54,26.26,low,low,10,porkbun,,,28/09/2026 13:15
 cb7747f6-e918-4561-b0c6-0dbc3f2682b5,hurtful.beer,available,1.98,43.98,medium,low,7,namecheap,,,14/08/2026 00:28
 e014efa8-942f-4160-88eb-89ecbc2966a6,tawny.beer,available,1.98,43.98,high,low,5,namecheap,,,11/09/2026 09:19
+a1c39ccf-d180-4c4b-8cbd-97c97d66902f,cistercian.beer,available,25.2,25.2,high,low,10,cloudflare,,,29/09/2026 18:21
 8acf6240-25a4-4763-a8f8-4a433fd77cf4,accepting.beer,available,2.19,32.49,high,low,9,namesilo,,,21/09/2026 15:33
 ec7f20b9-ee47-426e-998f-b09955b4610a,consents.beer,available,2.19,32.49,medium,low,8,namesilo,,,20/09/2026 13:43
 3ffc74d8-a00b-459a-8df3-9832a57d1514,krypton.beer,available,2.19,32.49,medium,low,7,namesilo,,,20/09/2026 22:56
@@ -147,6 +157,7 @@ e02b3a2b-39f1-40c3-a3e0-9c9656ebe2cb,childish.beer,available,1.98,43.98,high,low
 3e69d474-f450-4fd9-aed5-eefa7771f172,youngster.beer,available,1.98,43.98,high,low,9,namecheap,,,25/08/2026 00:01
 d42e9815-b893-426c-924d-4a481986ddea,webshop.beer,available,2.19,32.49,high,low,8,namesilo,,,
 283cfe7b-bd45-4bc9-8afa-edb75d0b3daf,bataan.beer,available,2.19,32.49,medium,low,6,namesilo,,,22/09/2026 13:10
+fc532454-784a-409e-bf5b-24552c7a2bdb,tents.beer,available,1.5,26.97,medium,low,5,dynadot,,,29/09/2026 16:28
 e5791fcb-cca7-48d0-9776-0e1a028e725c,seditious.beer,available,1.98,43.98,medium,low,9,namecheap,,,22/08/2026 01:29
 b0e7465b-9c6b-4eea-a919-43666e2a9ef7,ludlow.beer,available,2.19,32.49,medium,low,6,namesilo,,,27/09/2026 23:11
 5f39084d-f063-434b-bfb4-4b8ec6408092,superbug.beer,available,2.19,32.49,medium,low,8,namesilo,,,23/09/2026 07:17
@@ -156,9 +167,11 @@ ba5ce6dc-4e56-4f73-adf2-3e6d1af9b883,module.beer,available,1.24,26.08,high,low,6
 45998158-a911-4fea-8806-f477446c88e5,uprising.beer,available,1.24,26.08,medium,low,8,spaceship,,,29/09/2026 01:22
 5ed25a2c-c6fb-41fd-a7df-8ad35fdba2a0,attacking.beer,available,25.2,25.2,medium,low,9,cloudflare,,,27/09/2026 23:17
 253ecf69-bc73-49ef-a08f-ab5f62f1fed4,intended.beer,available,2.19,32.49,high,low,8,namesilo,,,25/09/2026 09:53
+a0abb74a-922f-4b94-a9bb-23fa1985aed2,presidency.beer,available,1.5,26.97,high,low,10,dynadot,,,29/09/2026 13:43
 20916987-f41e-4e29-a9f2-58925a385908,crabs.beer,available,1.24,26.08,high,low,5,spaceship,,,29/09/2026 00:30
 e2d25e4e-d31b-46da-8536-367d11b66804,numberless.beer,available,1.98,43.98,high,low,10,namecheap,,,13/08/2026 03:42
 2f68818d-b86e-406d-9d76-cc3f03d3a5d0,dishes.beer,available,2.19,32.49,medium,low,6,namesilo,,,27/09/2026 02:34
+f744de2a-88ec-4f6c-952a-48b15b621c43,nsc.beer,premium,47.2,29.5,high,low,3,namesilo,,,29/09/2026 07:39
 e9467b95-08cc-469a-89a8-85e0eab20122,rupicolous.beer,available,1.98,43.98,medium,low,10,namecheap,,,09/09/2026 19:41
 2cd3b79b-34a4-41bb-b1e6-e12e002ca49c,sexual.beer,available,1.24,26.08,high,low,6,spaceship,,,27/09/2026 20:20
 a3698e1c-715b-486c-b16c-1fe0f7ff01b0,attempt.beer,available,25.2,25.2,high,low,7,cloudflare,,,28/09/2026 23:03
@@ -174,47 +187,54 @@ d1f437a5-ea75-45a0-853d-7fcab95926f1,approaches.beer,available,1.24,26.08,high,l
 adab9b31-8b59-4d99-ac69-e1d200ec06c3,myotonic.beer,available,1.98,43.98,medium,low,8,namecheap,,,03/09/2026 12:15
 2a383ec3-63cc-4700-bc12-2b5d8bd4eac2,decisions.beer,available,1.98,43.98,medium,low,9,namecheap,,,25/09/2026 21:16
 172f903f-c45a-4f08-9e62-4f7735214de7,engels.beer,available,2.19,32.49,medium,low,6,namesilo,,,28/09/2026 14:01
-73735bd0-70ab-4698-a360-357e42b5c537,louse.beer,available,1.98,43.98,medium,low,5,namecheap,,,23/09/2026 20:00
+73735bd0-70ab-4698-a360-357e42b5c537,louse.beer,available,1.98,43.98,high,low,5,namecheap,,,23/09/2026 20:00
 a4454608-b862-4992-bb5f-1f9ac09092f8,inflatable.beer,available,1.98,43.98,high,low,10,namecheap,,,22/08/2026 04:29
 23bf5997-faa9-4a5a-9056-c362220a0759,textile.beer,available,1.54,26.26,high,low,7,porkbun,,,28/09/2026 02:25
 5f7597c1-493c-4759-a14a-a20adfd291d5,differ.beer,premium,44.19,27.82,high,low,6,porkbun,,,28/09/2026 20:49
 4dfc4bce-7d6f-4586-bab6-8e2749a34dff,chordate.beer,available,1.98,43.98,medium,low,8,namecheap,,,12/08/2026 07:12
 9d2f3c2c-b02a-43a5-beee-fdc6553f4772,ilama.beer,available,1.98,43.98,medium,low,5,namecheap,,,19/09/2026 10:33
-1fb13268-5ff5-434d-8624-4877868e4ba6,discard.beer,available,2.19,32.49,high,low,7,namesilo,,,
+1fb13268-5ff5-434d-8624-4877868e4ba6,discard.beer,available,2.19,32.49,high,low,7,namesilo,,,29/09/2026 15:21
 49b62d0d-8037-4e65-b51a-85ca011cc155,residential.beer,available,1.98,43.98,high,low,11,namecheap,,,29/09/2026 03:03
 f5ff24e7-a797-41bf-b366-0a359fe239b7,tricky.beer,available,1.98,43.98,high,low,6,namecheap,,,11/08/2026 21:23
 fd8cc535-c320-4556-bbe0-f0ff895a4011,frumpy.beer,available,1.98,43.98,medium,low,6,namecheap,,,18/08/2026 17:06
+b146aca8-c2f3-4de6-9efa-ba51411be0af,crowell.beer,premium,41.6,26.08,medium,low,7,spaceship,,,29/09/2026 09:14
 f67a683f-035c-4404-814b-f30c462f91b0,large.beer,premium,207.2,26.08,high,low,5,spaceship,,,28/09/2026 08:32
 dc4f712e-cd05-4a6c-834e-ec225502da45,mournfully.beer,available,1.98,43.98,medium,low,10,namecheap,,,15/09/2026 15:33
 314397a3-1cec-4a0d-bf09-59ec214e1bd3,basics.beer,available,1.5,26.97,high,low,6,dynadot,,,29/09/2026 01:23
 d99dcd28-66ac-4a8e-a34d-cbe4c4bfc4cf,nsf.beer,premium,44.19,27.82,high,low,3,porkbun,,,28/09/2026 10:31
 5f861200-78a1-46d5-ab0b-451e5cc82d46,ron.beer,premium,512,29.5,high,low,3,namesilo,,,25/09/2026 00:25
 1135f374-273b-4003-b441-3cfbe8d1eea2,shuha.beer,available,1.98,43.98,medium,low,5,namecheap,,,10/09/2026 07:04
-34e26f56-0146-4f6c-a063-19d0a62174e4,writers.beer,available,2.19,32.49,medium,low,7,namesilo,,,28/09/2026 04:38
+34e26f56-0146-4f6c-a063-19d0a62174e4,writers.beer,available,2.19,32.49,high,low,7,namesilo,,,28/09/2026 04:38
 c2c32457-2c82-4f29-a2f8-341a52f6552b,sulphuric.beer,available,1.98,43.98,medium,low,9,namecheap,,,11/09/2026 01:27
 e86fa912-2798-4443-8aac-80172cace86b,pianissimo.beer,available,1.98,43.98,high,medium,10,namecheap,,,08/09/2026 19:27
+4886dcf3-493b-48db-928e-f3f126ffd939,demographic.beer,available,1.24,26.08,high,low,11,spaceship,,,29/09/2026 14:24
 b84abaf6-3970-438e-ac8b-291878591e9d,napkin.beer,available,25.2,25.2,high,low,6,cloudflare,,,28/09/2026 08:00
 baf9df2d-1ae9-49d2-a978-952a12d39fff,swear.beer,available,1.98,43.98,high,low,5,namecheap,,,24/09/2026 20:32
 c24cb3b3-0b5e-4790-82f1-d08a2e7ceb78,compensate.beer,available,1.98,43.98,high,low,10,namecheap,,,27/09/2026 15:05
 4c0d560f-6182-4e52-8bbb-d13e991ac712,pacify.beer,available,1.98,43.98,high,low,6,namecheap,,,18/08/2026 22:00
+f3c9c4cd-b1dd-4e42-905d-3fd11433f01b,apologized.beer,available,2.19,32.49,low,low,10,namesilo,,,29/09/2026 05:55
 5b3ff0c7-088d-49d8-a5f3-eb2fa624d889,tess.beer,available,1.54,26.26,medium,low,4,porkbun,,,28/09/2026 21:56
 8b8d0920-2ed8-4a11-a040-045f848bbd82,rewarding.beer,available,1.24,26.08,high,low,9,spaceship,,,27/09/2026 14:47
 66b93deb-4a2d-4aa9-9753-49f9d38e8b46,seated.beer,available,1.24,26.08,high,low,6,spaceship,,,27/09/2026 19:11
+8ce3cefa-115f-482b-910e-e1c4a5ca71e6,considerably.beer,available,1.24,26.08,medium,low,12,spaceship,,,29/09/2026 14:23
 5043280c-b355-4c48-8c56-5e484da1b35e,ahab.beer,premium,52,32.5,medium,low,4,namecheap,,,17/09/2026 20:17
 7f82f089-d2bd-4982-8b76-2cbb887fbff6,tenth.beer,available,2.19,32.49,high,low,5,namesilo,,,21/09/2026 11:17
 d2bdab93-89d0-4c4b-b54a-4887d26bd8fd,deepening.beer,premium,47.2,29.5,medium,low,9,namesilo,,,13/08/2026 23:00
 cd39c605-0790-4cc5-bf7f-3defd2051172,evoked.beer,available,1.98,43.98,medium,low,6,namecheap,,,16/08/2026 04:33
 ac588ebb-f436-4fc5-818f-dbe4001ff937,sincere.beer,premium,47.2,29.5,high,low,7,namesilo,,,24/09/2026 13:03
 7f11fddb-39c2-427e-88db-18641c4658e5,jutland.beer,available,2.19,32.49,medium,low,7,namesilo,,,22/09/2026 15:18
-bc405f77-3af3-4e83-9de7-97026abd87c7,thatcher.beer,available,2.19,32.49,medium,low,8,namesilo,,,22/09/2026 07:26
+bc405f77-3af3-4e83-9de7-97026abd87c7,thatcher.beer,available,2.19,32.49,high,low,8,namesilo,,,22/09/2026 07:26
 dea833e3-2bd1-4875-babe-99ca044ba92e,easter.beer,available,1.98,43.98,high,low,6,namecheap,,,24/09/2026 13:11
 4a957321-15c2-487d-9d8e-a29dad969b9a,beluga.beer,premium,47.2,29.5,high,low,6,namesilo,,,17/09/2026 01:49
 efc603b3-4a42-44ab-9e31-b824569758c0,min.beer,premium,500,46.99,high,low,3,name.com,,,25/08/2026 00:58
 565eedb0-9b45-4509-8677-cfe874525c71,polymeric.beer,available,1.98,43.98,medium,low,9,namecheap,,,08/09/2026 23:25
 feb9058d-1441-4c5b-b062-3b403e0e593b,respectable.beer,available,1.24,26.08,high,low,11,spaceship,,,28/09/2026 11:23
-9b817ecd-73e0-4be1-b1db-96d697f94900,messianic.beer,available,1.98,43.98,medium,low,9,namecheap,,,24/08/2026 21:22
+6a127c49-88d9-4708-a4a0-7c982a89183a,refuges.beer,available,1.54,26.26,medium,low,7,porkbun,,,30/09/2026 00:19
+9b817ecd-73e0-4be1-b1db-96d697f94900,messianic.beer,available,1.98,43.98,high,low,9,namecheap,,,24/08/2026 21:22
+07eb498c-44a2-4a97-ae29-c07e665d977a,converting.beer,available,25.2,25.2,medium,low,10,cloudflare,,,29/09/2026 23:06
 c3483c77-c339-4b88-aaf7-3c151bfd66c3,everett.beer,available,2.19,32.49,high,low,7,namesilo,,,25/09/2026 21:45
 a0113285-42cf-4dd0-8373-897cc374dd40,gustative.beer,available,1.98,43.98,high,low,9,namecheap,,,20/08/2026 21:08
+dbba8712-d087-42be-821d-ae259fee4c38,manufactured.beer,available,2.19,32.49,high,low,12,namesilo,,,29/09/2026 08:36
 cad70de3-d1e0-49db-b218-ae3a60e9d017,couch.beer,available,1.99,46.99,high,low,5,name.com,,,24/09/2026 18:35
 0b34f891-8413-48bc-87a3-d798394b3af8,above.beer,premium,47.2,29.5,high,low,5,namesilo,,,21/09/2026 14:29
 1f54b53e-d6f5-44b7-83b0-2f541f56ac04,ornate.beer,available,1.98,43.98,high,low,6,namecheap,,,04/09/2026 17:59
@@ -222,6 +242,7 @@ cad70de3-d1e0-49db-b218-ae3a60e9d017,couch.beer,available,1.99,46.99,high,low,5,
 239d2e74-754a-48bb-a716-b7126419cf1b,coincident.beer,available,1.98,43.98,medium,low,10,namecheap,,,12/08/2026 13:18
 f4a450d5-a86c-45a2-8f56-3b0bb2b1e2a2,shattering.beer,available,1.98,43.98,high,medium,10,namecheap,,,10/09/2026 06:06
 51843af3-161a-4689-96ae-43cbb4d68707,fashioned.beer,available,1.98,43.98,high,low,9,namecheap,,,17/08/2026 23:02
+2ad8231e-afc2-45e1-a5a8-7fc629d9e9cd,astonishing.beer,available,1.24,26.08,high,low,11,spaceship,,,29/09/2026 21:10
 bee62fea-d39f-4b08-af90-8e5ece4a6795,forest.beer,premium,104,32.5,high,low,6,namecheap,,,19/09/2026 06:42
 a9f2df47-aa6d-4b5e-98e3-c531d5973cb8,enclosed.beer,available,1.98,43.98,high,low,8,namecheap,,,16/08/2026 22:21
 a83c1538-6b05-4659-82ca-14cf0e527e34,majorities.beer,available,2.19,32.49,low,low,10,namesilo,,,29/09/2026 05:40
@@ -236,33 +257,37 @@ dd3da4de-6a06-408b-aacc-92c6daab6d91,slavelike.beer,available,1.98,43.98,medium,
 92bb95b1-9d3e-4a82-a4d1-9c7849d8a01f,articular.beer,available,1.98,43.98,medium,low,9,namecheap,,,06/08/2026 23:26
 3e2fc709-2fd4-43f6-9c2d-37760516543f,thousandth.beer,available,1.98,43.98,high,low,10,namecheap,,,
 a70ab01b-f815-4c4c-860c-20b2ccde1c6d,balinese.beer,available,2.19,32.49,high,low,8,namesilo,,,21/09/2026 22:03
-e95f2d8e-aa9d-4785-bf65-b162f2d31291,philip.beer,available,2.19,32.49,high,low,6,namesilo,,,
-21c958a2-2d50-4217-b649-80f089f5d940,curricular.beer,available,1.98,43.98,medium,low,10,namecheap,,,13/08/2026 11:29
+e95f2d8e-aa9d-4785-bf65-b162f2d31291,philip.beer,available,1.24,26.08,high,low,6,spaceship,,,29/09/2026 17:06
+28a34861-33e9-4345-a15b-78cb72e89af3,silvia.beer,available,1.24,26.08,medium,low,6,spaceship,,,29/09/2026 12:28
+21c958a2-2d50-4217-b649-80f089f5d940,curricular.beer,available,1.98,43.98,high,low,10,namecheap,,,13/08/2026 11:29
 f1b45ce2-e1fc-475c-8b7f-f6b1dc66999a,spikelike.beer,available,1.98,43.98,high,medium,9,namecheap,,,10/09/2026 15:38
 2a4b09b1-2d0f-44b7-9d07-ede943007780,theoretically.beer,available,2.19,32.49,low,low,13,namesilo,,,28/09/2026 17:35
 075d0b0f-6071-429e-bcbb-83dbb890635e,lawrence.beer,available,2.19,32.49,high,low,8,namesilo,,,25/09/2026 04:32
 5df8c557-175a-4156-b081-e6b633b7c518,adventures.beer,available,2.19,32.49,high,low,10,namesilo,,,18/09/2026 17:22
 de66cafc-c121-411c-b4c0-12cd1225f88d,teams.beer,available,1.98,43.98,high,low,5,namecheap,,,17/09/2026 19:00
 7fe309ed-6502-4d60-9656-a30e63e1acd5,tare.beer,available,1.98,43.98,high,low,4,namecheap,,,22/09/2026 21:12
-f5fb2e33-5d93-426a-a316-a2e8df55ca1a,watercress.beer,available,1.98,43.98,medium,low,10,namecheap,,,13/08/2026 06:18
+f5fb2e33-5d93-426a-a316-a2e8df55ca1a,watercress.beer,available,1.98,43.98,high,low,10,namecheap,,,13/08/2026 06:18
 4826bb1e-8199-4e3f-9300-f0752367a356,equestrian.beer,available,1.98,43.98,high,low,10,namecheap,,,17/08/2026 11:42
 07f19c74-525b-4e80-8b8c-4900de792ee5,scent.beer,available,2.19,32.49,high,low,5,namesilo,,,20/09/2026 08:28
 f8c95149-6794-4b06-9d16-ca904c032f1b,inspector.beer,available,2.19,32.49,high,low,9,namesilo,,,25/09/2026 07:48
 7a305e66-ff42-4a80-81eb-6e5e01355a8c,gerard.beer,available,2.19,32.49,medium,low,6,namesilo,,,25/09/2026 13:17
 359f0489-4207-47b6-a48e-a6ab26f696b4,reg.beer,premium,,,high,low,3,,,,28/09/2026 21:01
 8d8dc20e-9d97-49eb-a6cd-6a603a71d515,dominical.beer,available,1.98,43.98,medium,low,9,namecheap,,,14/08/2026 15:42
-72f9a289-b23b-4a48-acb1-700919b8470b,unbecoming.beer,available,1.98,43.98,medium,low,10,namecheap,,,22/08/2026 02:19
-91ca8d66-2d9a-434b-8ff0-43f5553185e4,doctoral.beer,available,1.98,43.98,medium,low,8,namecheap,,,14/08/2026 14:19
+72f9a289-b23b-4a48-acb1-700919b8470b,unbecoming.beer,available,1.98,43.98,high,low,10,namecheap,,,22/08/2026 02:19
+91ca8d66-2d9a-434b-8ff0-43f5553185e4,doctoral.beer,available,1.98,43.98,high,low,8,namecheap,,,14/08/2026 14:19
 886be386-1ea9-40a4-a4b8-18aaaadb2066,leathery.beer,available,1.98,43.98,medium,low,8,namecheap,,,13/08/2026 01:13
 08bffe44-e08f-4f24-b35d-676feca36101,dripless.beer,available,1.98,43.98,medium,low,8,namecheap,,,14/08/2026 19:31
-16585ebd-8aa1-4c97-8715-50c411bc6c07,exhaust.beer,available,2.19,32.49,high,low,7,namesilo,,,
+16585ebd-8aa1-4c97-8715-50c411bc6c07,exhaust.beer,available,1.5,26.97,high,low,7,dynadot,,,29/09/2026 18:34
 7538afa5-992e-4295-8a43-fc92860a7498,mackey.beer,available,1.5,26.97,medium,low,6,dynadot,,,29/09/2026 04:38
 b21c6a1b-5222-41fe-8528-de29d359fbbc,thatch.beer,available,2.19,32.49,medium,low,6,namesilo,,,24/09/2026 02:04
 308847f1-e7ec-4765-8d74-98ffbfa77716,eagles.beer,premium,2070.2,26.08,high,low,6,spaceship,,,28/09/2026 16:13
 a0777707-45c4-4631-aaf0-35fd19f7c8e2,supervillains.beer,available,2.19,32.49,low,low,13,namesilo,,,21/09/2026 05:46
 59da327f-964f-4f52-8f3e-effa457684e3,gaunt.beer,premium,50,46.99,medium,low,5,name.com,,,10/08/2026 18:54
+52429cbc-0bff-40d3-b553-b96fb9c61736,imagery.beer,available,1.24,26.08,high,low,7,spaceship,,,29/09/2026 19:16
+ed8c4978-5147-41b0-885e-b38fb4a2c09b,consists.beer,available,2.19,32.49,low,low,8,namesilo,,,29/09/2026 23:07
 cba8f6b4-5558-41d9-83a1-fcc1d3c8bcd9,rivalrous.beer,available,1.98,43.98,medium,low,9,namecheap,,,09/09/2026 18:06
 e26b47dc-ea19-40cb-8130-a0b71db63f60,virtually.beer,available,1.54,26.26,high,low,9,porkbun,,,28/09/2026 11:56
+93d5244f-8b9a-43f8-9245-9a0100de2213,judea.beer,available,25.2,25.2,medium,low,5,cloudflare,,,29/09/2026 07:23
 4fe7c82a-5dea-4bb5-a81a-269cdb03c952,contracts.beer,available,1.24,26.08,medium,low,9,spaceship,,,28/09/2026 08:33
 20522f5c-923d-4282-9d02-6bffe6f0eb3c,rhythmical.beer,available,1.98,43.98,high,low,10,namecheap,,,09/09/2026 17:05
 2d72e362-9b41-4fdf-8edb-c86644e3015d,securing.beer,available,2.19,32.49,medium,low,8,namesilo,,,
@@ -270,24 +295,24 @@ d603a33d-edac-4a5c-9b90-cb0210c30904,parts.beer,available,2.19,32.49,high,low,5,
 e69a6942-08b0-4f25-8fc8-d0345542a85c,tall.beer,premium,2660,29.5,high,low,4,namesilo,,,24/09/2026 22:52
 82a0b424-3038-4ec5-9cd7-759a77a88c73,ossiculate.beer,available,1.98,43.98,medium,low,10,namecheap,,,04/09/2026 18:24
 310a8d17-0312-47e3-89c4-a668cab6c4e6,agreed.beer,premium,47.2,29.5,high,low,6,namesilo,,,21/09/2026 23:21
+5cb54e23-fb7d-45a6-8635-5cca501c6a25,marne.beer,available,1.24,26.08,medium,low,5,spaceship,,,29/09/2026 15:38
 6709d5f7-c50d-4783-ab60-c9f698db2797,ignescent.beer,available,1.98,43.98,medium,low,9,namecheap,,,21/08/2026 18:22
 6129ef5a-7c4f-4b68-b5fd-5be8fe242ce4,yamani.beer,available,1.98,43.98,medium,low,6,namecheap,,,17/09/2026 20:29
 413367cd-a53a-445b-a7a0-c15218d904a4,bowery.beer,available,1.98,43.98,high,medium,6,namecheap,,,10/08/2026 23:13
 b9bada7a-cfbf-40ff-8c6a-18767c193d57,best.beer,resell,,,high,medium,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),23/04/2021 16:00,23/04/2027 16:00,26/09/2026 04:22
-cec7268d-18f1-492e-a1bc-bbd433956cc7,eyes.beer,available,2.19,32.49,high,low,4,namesilo,,,
 2e6ecb85-99c9-4c7d-b3f8-0b5f820bdac0,winged.beer,available,1.98,43.98,high,low,6,namecheap,,,13/09/2026 12:29
 904075e7-4411-4f9f-b082-aa5a2471fc36,hadrian.beer,available,2.19,32.49,medium,low,7,namesilo,,,17/09/2026 09:58
 046441ff-deca-4c0d-a88c-a9d4389667aa,plans.beer,available,2.19,32.49,high,low,5,namesilo,,,
 f021fe3e-d745-4edf-9d30-d0f7647ef9c6,banishment.beer,available,2.19,32.49,high,low,10,namesilo,,,22/09/2026 02:06
 192884e9-1005-493f-b03b-38f9807d7062,beard.beer,available,1.98,43.98,high,low,5,namecheap,,,22/09/2026 21:01
-aca68bd9-c4cc-45a1-ae22-f59816e9a23b,sinister.beer,available,1.98,43.98,medium,low,8,namecheap,,,24/08/2026 20:02
+aca68bd9-c4cc-45a1-ae22-f59816e9a23b,sinister.beer,available,1.98,43.98,high,low,8,namecheap,,,24/08/2026 20:02
 c660921e-131e-48ef-a80f-5f8d0e3dcbe2,bashful.beer,available,1.98,43.98,high,low,7,namecheap,,,08/08/2026 22:01
 8d467ca6-a14b-4fd0-bf78-04840dc1bb19,recreation.beer,available,2.19,32.49,high,low,10,namesilo,,,24/09/2026 23:18
 bd0e8111-450e-47e8-a998-ecf53b88f91e,yokel.beer,available,1.98,43.98,medium,low,5,namecheap,,,21/08/2026 08:01
 cce8e665-e414-4b22-9998-1c2f47b08d3a,sounds.beer,available,2.19,32.49,high,low,6,namesilo,,,25/09/2026 17:10
-c131df54-821f-4a01-b343-cd859d07f999,condo.beer,available,2.19,32.49,high,low,5,namesilo,,,
+c131df54-821f-4a01-b343-cd859d07f999,condo.beer,available,1.24,26.08,high,low,5,spaceship,,,29/09/2026 10:41
 730bc3b3-7302-4503-a88f-bbe47bdeb715,saliferous.beer,available,1.98,43.98,high,medium,10,namecheap,,,09/09/2026 20:52
-e3f0cfbe-743d-4b4d-94e4-754a3a5af8a1,nurse.beer,available,2.19,32.49,high,low,5,namesilo,,,
+e3f0cfbe-743d-4b4d-94e4-754a3a5af8a1,nurse.beer,available,2.19,32.49,high,low,5,namesilo,,,29/09/2026 22:12
 c1c9fa35-d7a2-4b73-b4f9-3dfe561688b7,asl.beer,premium,52,32.5,high,low,3,namecheap,,,18/09/2026 20:39
 5a8eb611-2591-4a73-afc9-9d7ff2e58916,delusory.beer,available,1.98,43.98,low,low,8,namecheap,,,13/08/2026 21:18
 9987611d-5810-46ee-8879-bd4f4b80a1fb,recessive.beer,available,1.98,43.98,medium,low,9,namecheap,,,09/09/2026 11:25
@@ -302,7 +327,7 @@ d33f275b-9839-45d2-8350-a7c16420a2b0,binger.beer,available,2.19,32.49,medium,low
 67742670-4dea-4614-9145-2d3b68637190,assemblage.beer,available,2.19,32.49,high,low,10,namesilo,,,17/09/2026 17:28
 8207da59-46bd-4e68-ac52-e28e9d7b533d,maryland.beer,premium,2070.2,26.08,medium,low,8,spaceship,,,28/09/2026 19:17
 9b58b1ff-363d-4422-b85e-2bcacdd121fd,freezing.beer,available,2.19,32.49,high,low,8,namesilo,,,25/09/2026 06:10
-99b4af70-69ca-4591-959c-786a17f0ac62,sensor.beer,available,2.19,32.49,high,low,6,namesilo,,,
+99b4af70-69ca-4591-959c-786a17f0ac62,sensor.beer,available,2.19,32.49,high,low,6,namesilo,,,29/09/2026 14:18
 40736ec6-981a-49de-b49d-ebea724eebe9,keyless.beer,available,1.98,43.98,medium,low,7,namecheap,,,22/08/2026 15:44
 9655f1d0-9c39-433e-907e-f7737e50790b,receptive.beer,available,1.98,43.98,high,low,9,namecheap,,,09/09/2026 11:23
 76e8e2e3-9462-4768-811f-4f3a70be96fa,indemnity.beer,available,2.19,32.49,medium,low,9,namesilo,,,18/09/2026 18:43
@@ -311,13 +336,15 @@ d6932ca1-29ab-4752-8749-872c4fc32ac6,finespun.beer,available,1.98,43.98,medium,l
 a92d4b17-7920-47d1-84be-3ccb78daf8dc,eaten.beer,available,2.19,32.49,high,low,5,namesilo,,,
 0b41672f-1586-4cbb-83d9-5eb32f5785da,ones.beer,available,2.19,32.49,high,low,4,namesilo,,,
 4ff285af-aa0f-43ba-ad2d-a70fb42c7549,receiving.beer,available,2.19,32.49,high,low,9,namesilo,,,27/09/2026 17:11
-51e54438-412b-412e-8ffc-c0c41b2028e2,trouper.beer,available,2.19,32.49,medium,low,7,namesilo,,,22/09/2026 06:54
+51e54438-412b-412e-8ffc-c0c41b2028e2,trouper.beer,available,2.19,32.49,high,low,7,namesilo,,,22/09/2026 06:54
 361b971c-6110-4a4b-be43-6b84d8d95244,barkeep.beer,available,1.98,43.98,high,low,7,namecheap,,,22/09/2026 06:22
+7c0ee302-f081-4d5b-9214-95599eb73398,conde.beer,available,1.24,26.08,medium,low,5,spaceship,,,29/09/2026 09:06
 3c7f05d7-4d9c-4e61-8580-8af4f6900990,balarama.beer,available,1.98,43.98,medium,low,8,namecheap,,,21/09/2026 21:06
 3467a43e-e379-40e5-b2b8-0251e58a9026,messages.beer,available,2.19,32.49,high,low,8,namesilo,,,18/09/2026 22:11
 9d222713-1bfe-4f1e-9b18-db7e725a4b12,haste.beer,available,2.19,32.49,high,low,5,namesilo,,,27/09/2026 17:08
 da02f121-bd4a-46da-90ca-eec9062e05b5,quack.beer,available,1.98,43.98,high,low,5,namecheap,,,09/09/2026 07:16
-d15f0e77-191f-4488-a70d-87d8f02cf9a2,push.beer,available,43.98,,high,low,4,namecheap,,,
+3afc609c-2e19-4554-a9c9-bc9690c591a5,nlrb.beer,available,1.5,26.97,medium,low,4,dynadot,,,29/09/2026 13:32
+7472eb29-3b9b-433a-8c80-270dd5873b70,tecumseh.beer,available,1.24,26.08,medium,low,8,spaceship,,,29/09/2026 08:12
 304eaa30-2cba-414c-b634-358e980d1d2a,masterless.beer,available,1.98,43.98,medium,low,10,namecheap,,,24/08/2026 09:55
 e5b3dc6b-a4ba-4ccf-8675-9428c88cd324,unwise.beer,available,1.98,43.98,medium,low,6,namecheap,,,12/09/2026 22:42
 7b195fbb-3920-46b5-a983-4ffae01337a2,implacable.beer,available,1.98,43.98,medium,low,10,namecheap,,,21/08/2026 22:31
@@ -329,15 +356,17 @@ fe87ff3a-185f-41b2-97e5-2dec3648c7b4,spending.beer,available,2.19,32.49,high,low
 8848ff62-f562-485e-8646-9daa1c45c1aa,condense.beer,premium,47.2,29.5,high,low,8,namesilo,,,
 30b31dc1-cef6-44ff-824f-9fe4b276be08,tasty.beer,premium,2600,32.5,high,low,5,namecheap,,,11/09/2026 09:04
 dd6e29da-2422-43c7-97e9-d15be96e8d2f,cephalopod.beer,available,1.98,43.98,medium,low,10,namecheap,,,12/08/2026 00:21
+8f1f9963-c434-4057-8e45-5956db7e765b,malabar.beer,premium,,,high,low,7,,,,29/09/2026 09:09
 4c917f33-7068-44a6-8031-1cd1b4abcf6e,horror.beer,available,1.98,43.98,high,low,6,namecheap,,,27/09/2026 14:08
 0625b9dc-5c2b-44e6-8bdb-267e3b4f6587,prosy.beer,available,1.98,43.98,medium,low,5,namecheap,,,08/09/2026 12:32
 3f1000f8-6b82-4252-8b83-9fac8bd5f9ad,kraus.beer,available,25.2,25.2,medium,low,5,cloudflare,,,29/09/2026 03:34
 11b8b458-3fdf-4f25-836b-3a23bb24c525,ancestry.beer,available,1.98,43.98,high,medium,8,namecheap,,,08/09/2026 13:19
 85d63d29-1493-4188-a2e4-1c67c324121d,ayah.beer,available,2.19,32.49,high,low,4,namesilo,,,21/09/2026 10:32
-e73517e5-c94e-4982-b45e-dffe112e00bb,seeded.beer,available,1.98,43.98,medium,low,6,namecheap,,,10/09/2026 01:43
+e73517e5-c94e-4982-b45e-dffe112e00bb,seeded.beer,available,1.98,43.98,high,low,6,namecheap,,,10/09/2026 01:43
 ab0584e5-4958-4e2e-8c7c-b9cead29eb1e,produces.beer,available,1.98,43.98,medium,low,8,namecheap,,,17/09/2026 14:14
 1d0a4d52-7911-44d8-8624-715190dec43f,measurement.beer,available,1.24,26.08,high,low,11,spaceship,,,28/09/2026 05:47
 0d3977ab-ffd1-4477-acef-9fee5e8e88c6,thereof.beer,available,2.19,32.49,medium,low,7,namesilo,,,16/09/2026 08:41
+828080ba-5cd8-4df1-b5ad-a8c493e5d09e,challenges.beer,available,25.2,25.2,medium,low,10,cloudflare,,,29/09/2026 11:27
 1e930dd5-dcbe-4e05-9da1-3decff058551,discerning.beer,available,1.98,43.98,high,low,10,namecheap,,,06/08/2026 08:23
 f1639806-a3df-4539-96dd-fa44a14ef99d,quaternion.beer,available,1.98,43.98,medium,low,10,namecheap,,,
 c76cf9b6-ff08-4651-8c04-1464e9307a5b,bap.beer,premium,47.2,29.5,high,low,3,namesilo,,,22/09/2026 03:20
@@ -350,11 +379,12 @@ a5b1a132-98f8-42bf-809a-d6ea2b2a279b,catkin.beer,available,1.98,43.98,medium,low
 047dd5b4-76b8-4034-a0e9-7b7ff17570b8,claus.beer,available,2.19,32.49,medium,low,5,namesilo,,,27/09/2026 02:28
 2ad66fe1-e660-43fe-937f-e0f794ccb04a,adorned.beer,available,1.98,43.98,high,low,7,namecheap,,,
 84f850c4-0595-4361-a9cd-a36bec78d538,poughkeepsie.beer,available,2.19,32.49,medium,low,12,namesilo,,,29/09/2026 04:37
-b2011ac0-f116-4842-9739-cd7c87690c1f,chore.beer,available,2.19,32.49,high,low,5,namesilo,,,
+a7cbde33-3f02-431a-bbbe-3fc742f13631,tit.beer,premium,414.2,26.08,high,low,3,spaceship,,,29/09/2026 19:36
+b2011ac0-f116-4842-9739-cd7c87690c1f,chore.beer,available,1.24,26.08,high,low,5,spaceship,,,29/09/2026 09:00
 29481ae0-bf5a-4700-8db6-601723f8402f,rarefied.beer,available,1.98,43.98,medium,low,8,namecheap,,,17/08/2026 15:44
 1f0aa870-8ba3-4dc4-add3-9e5e3c25b20c,favourable.beer,available,2.19,32.49,high,low,10,namesilo,,,24/09/2026 17:24
 449fdb1b-c535-4130-b587-150a98ac84c4,hang.beer,premium,83,26.08,high,low,4,spaceship,,,28/09/2026 19:01
-8c52d211-4625-48d7-be18-4fb670140850,giza.beer,premium,47.2,29.5,high,low,4,namesilo,,,
+8c52d211-4625-48d7-be18-4fb670140850,giza.beer,premium,41.6,26.08,high,low,4,spaceship,,,29/09/2026 17:47
 8cec5322-0f72-4d85-a66f-b689cab0c6ac,upmost.beer,available,1.98,43.98,medium,low,6,namecheap,,,11/09/2026 17:50
 36dd5d66-7838-4702-bb41-1d49144ed8dd,leaky.beer,available,1.98,43.98,medium,low,5,namecheap,,,22/08/2026 22:01
 d7fa6000-ba95-42e0-b59a-ed7d05cf63f9,regretful.beer,available,1.98,43.98,high,medium,9,namecheap,,,09/09/2026 13:00
@@ -366,32 +396,37 @@ c15a530a-fdb0-4a19-bef8-7a2489089a05,stamford.beer,available,1.98,43.98,high,low
 3989d7af-617b-4c0a-ac9d-ca19cc5bb8a7,galaxy.beer,premium,47.2,29.5,high,medium,6,namesilo,,,29/09/2026 02:00
 0394e160-5e6c-49f6-9d18-822fc2814c5d,deli.beer,premium,52,32.5,high,low,4,namecheap,,,24/09/2026 21:37
 321af3a8-534b-4f41-ae56-84cd130b13b5,windswept.beer,available,1.98,43.98,medium,low,9,namecheap,,,13/09/2026 12:16
-07e1edc9-4e47-454c-bea9-bfaf5bc74137,sentence.beer,available,2.19,32.49,high,low,8,namesilo,,,
+07e1edc9-4e47-454c-bea9-bfaf5bc74137,sentence.beer,available,2.19,32.49,high,low,8,namesilo,,,30/09/2026 01:02
 c78759a4-c3ae-4ec7-9566-b6317f03b925,gaze.beer,available,25.2,25.2,high,low,4,cloudflare,,,28/09/2026 19:17
 f26bf473-f608-49d0-bca7-799daf6ada76,tenner.beer,available,2.19,32.49,medium,low,6,namesilo,,,21/09/2026 10:53
 10095a6f-fd57-4eff-932a-35cf0ccb577f,ballista.beer,available,2.19,32.49,medium,low,8,namesilo,,,20/09/2026 00:35
+d90cc4c4-296c-4ee6-af0e-9481b294fd03,dublin.beer,resell,,,high,low,6,,,,29/09/2026 18:12
 03b10d82-e404-4c88-92e1-18d57082fcaa,occurred.beer,available,2.19,32.49,medium,low,8,namesilo,,,18/09/2026 13:50
 772e7f1f-abbe-4643-b0fc-6c4ebbb2178a,failure.beer,available,2.19,32.49,high,low,7,namesilo,,,25/09/2026 22:41
-8289d113-adf9-4500-aa72-5cc99c298d10,imagine.beer,available,43.98,,high,medium,7,namecheap,,,
+8289d113-adf9-4500-aa72-5cc99c298d10,imagine.beer,available,1.24,26.08,high,medium,7,spaceship,,,29/09/2026 21:41
 72815d12-5927-4e72-adde-ee6652e24a78,skilful.beer,available,2.19,32.49,high,low,7,namesilo,,,21/09/2026 17:29
 43ca8bde-b792-4397-bc8e-e6060074d7e6,sculpt.beer,available,1.98,43.98,high,low,6,namecheap,,,20/08/2026 18:43
 11c6b04c-24b6-4744-9b95-44d6c11c6aea,terminators.beer,available,2.19,32.49,low,low,11,namesilo,,,20/09/2026 12:06
+a64f3794-994c-46e9-94be-75746729eae4,extracted.beer,available,2.19,32.49,medium,low,9,namesilo,,,29/09/2026 10:37
 584648a6-8c66-4b24-af18-e48bd126326c,idiopathic.beer,available,1.98,43.98,medium,low,10,namecheap,,,21/08/2026 18:09
 da7250c6-72e9-47e5-8cad-98939d598e71,broadsheet.beer,available,1.98,43.98,high,low,10,namecheap,,,11/08/2026 05:08
-1770be67-d7f4-4cf2-9614-9a4b8593cb34,abrasion.beer,available,2.19,32.49,medium,low,8,namesilo,,,16/09/2026 16:56
-8f686da2-8c4d-4075-b23b-0a81f18beda2,virile.beer,available,1.98,43.98,medium,low,6,namecheap,,,13/09/2026 06:04
+1770be67-d7f4-4cf2-9614-9a4b8593cb34,abrasion.beer,available,2.19,32.49,high,low,8,namesilo,,,16/09/2026 16:56
+8f686da2-8c4d-4075-b23b-0a81f18beda2,virile.beer,available,1.98,43.98,high,low,6,namecheap,,,13/09/2026 06:04
 dbea11c5-2130-4cb3-bc94-3d2efa5e8fea,slovene.beer,available,1.24,26.08,medium,low,7,spaceship,,,28/09/2026 20:30
 5b2b1a0d-75cc-4d83-8389-6804e91bff92,blowy.beer,available,1.98,43.98,medium,low,5,namecheap,,,10/08/2026 15:47
 b785dece-5640-4b31-96f3-6f8a88dca57e,too.beer,premium,500,,high,low,3,name.com,,,28/09/2026 12:00
+35800414-711e-4984-a469-945980fdba0f,astronomical.beer,available,1.24,26.08,high,low,12,spaceship,,,29/09/2026 14:28
 29cb3cae-1c90-4bec-8fb1-712582cf6750,mural.beer,available,1.98,43.98,high,low,5,namecheap,,,03/09/2026 11:00
 1a7bf4f6-8564-4715-8a45-5ed0931f0d4c,huntington.beer,available,1.98,43.98,high,low,10,namecheap,,,25/09/2026 04:18
+8fdcb3c7-b36c-4f2c-a2ff-bc1ac8f55955,scipio.beer,available,2.19,32.49,medium,low,6,namesilo,,,29/09/2026 13:43
 27e430bd-54a4-496d-9006-a2a9c1784947,manzoni.beer,available,1.98,43.98,high,low,7,namecheap,,,18/09/2026 05:31
 43b2b087-e656-47da-9346-fdc452ddbf54,unalike.beer,premium,47.2,29.5,medium,low,7,namesilo,,,12/09/2026 00:26
 374c0a45-eb6f-4c06-8cce-25b9981f404a,veined.beer,available,1.98,43.98,medium,low,6,namecheap,,,13/09/2026 01:53
 00e4200f-8d08-420b-9701-41cb7a3cdc9c,composing.beer,available,2.19,32.49,high,low,9,namesilo,,,24/09/2026 16:54
 2be69aec-5243-4f39-acaa-10f9c8104a0e,ensuing.beer,available,1.98,43.98,medium,low,7,namecheap,,,17/08/2026 09:51
 ba0b0256-0c16-4d72-9ca5-ef4d1ed4069a,zoomed.beer,available,2.19,32.49,medium,low,6,namesilo,,,18/09/2026 03:48
-558a24fc-fd74-4712-a71a-103fcb6ef550,characteristic.beer,available,43.98,,medium,low,14,namecheap,,,
+558a24fc-fd74-4712-a71a-103fcb6ef550,characteristic.beer,available,43.98,,high,low,14,namecheap,,,
+c5df2a75-5db1-411e-a1e6-f7dd37333763,honoring.beer,available,1.24,26.08,high,low,8,spaceship,,,29/09/2026 13:04
 e626838a-635f-4885-967b-935af41d8863,breadfruit.beer,available,1.98,43.98,high,low,10,namecheap,,,20/09/2026 11:57
 0a2a2ded-cdd5-41bc-aa9d-4a7d6d613b45,tommyrot.beer,available,2.19,32.49,medium,low,8,namesilo,,,21/09/2026 23:53
 742ab94b-2e87-438e-a227-b8f10aac7a55,sisterly.beer,available,1.98,43.98,high,low,8,namecheap,,,10/09/2026 08:52
@@ -410,7 +445,8 @@ ec783d6a-e289-4ce4-bf9c-ea8f0166f653,bsarch.beer,available,2.19,32.49,medium,low
 bd2baf2b-ac8f-43e9-b763-2676744e63c9,ferdinand.beer,available,2.19,32.49,high,low,9,namesilo,,,25/09/2026 05:57
 a1b7a5a4-edf9-475a-8792-ca94292947ff,peninsular.beer,available,1.98,43.98,high,low,10,namecheap,,,08/09/2026 14:28
 0d5197a8-cf21-4ac0-a076-a5bd0624e8df,citibank.beer,available,2.19,32.49,high,medium,8,namesilo,,,
-04d65315-74e3-4246-99c7-be8ee9157170,clayton.beer,available,1.98,43.98,medium,low,7,namecheap,,,25/09/2026 21:46
+14bd8c7b-a41b-4493-9173-617fa0426993,caspar.beer,available,1.24,26.08,medium,low,6,spaceship,,,29/09/2026 06:16
+04d65315-74e3-4246-99c7-be8ee9157170,clayton.beer,available,1.98,43.98,high,low,7,namecheap,,,25/09/2026 21:46
 c8d19444-b785-4bfb-ab51-f521e88f5e7b,removal.beer,available,2.19,32.49,high,low,7,namesilo,,,
 f4a32c0b-99f7-4666-848d-2066d7405e90,caprine.beer,available,1.98,43.98,medium,low,7,namecheap,,,11/08/2026 18:06
 26da8bf9-6140-4077-95ab-0b61868d0df0,possessed.beer,available,1.24,26.08,medium,low,9,spaceship,,,28/09/2026 03:28
@@ -418,22 +454,25 @@ edd51ab0-7086-4cc8-a912-aa7d4df56fb3,gnarly.beer,available,1.98,43.98,medium,low
 eb1f14d3-11c5-45f9-8bdf-2d3cece980da,platelike.beer,available,1.98,43.98,high,low,9,namecheap,,,08/09/2026 20:17
 d22634b7-f706-4139-a9aa-e2594b293404,wapiti.beer,available,2.19,32.49,medium,low,6,namesilo,,,18/09/2026 19:45
 0ff03436-4e29-4565-b2db-1fb21b923c0e,bedfellow.beer,available,2.19,32.49,medium,low,9,namesilo,,,22/09/2026 23:14
-1cb8cf1b-1be5-4330-a784-da1e4937a364,senegalese.beer,available,1.98,43.98,medium,low,10,namecheap,,,10/09/2026 03:43
+1cb8cf1b-1be5-4330-a784-da1e4937a364,senegalese.beer,available,1.98,43.98,high,low,10,namecheap,,,10/09/2026 03:43
 99a8b75a-ed07-4785-976f-079f583daa13,ssr.beer,premium,52,32.5,high,low,3,namecheap,,,25/09/2026 12:03
 864e7917-f630-4969-80ad-b38c0ce80fd3,emotionally.beer,available,1.24,26.08,high,low,11,spaceship,,,27/09/2026 17:53
 416f9a60-aace-4c15-9cc1-0452b12af2bf,laws.beer,available,2.19,32.49,high,low,4,namesilo,,,
-ad9bce1c-c0ce-4c6a-8bf9-3f6198cc6666,lower.beer,available,2.19,32.49,high,low,5,namesilo,,,
+ad9bce1c-c0ce-4c6a-8bf9-3f6198cc6666,lower.beer,available,1.24,26.08,high,low,5,spaceship,,,29/09/2026 20:00
 b550251f-86fc-4819-bcc0-0be76cf0e6c4,cyrillic.beer,available,1.99,46.99,medium,low,8,name.com,,,13/08/2026 14:33
 e6184410-30c2-4c9e-9e1b-c8799cfdd916,uninvited.beer,available,1.98,43.98,high,low,9,namecheap,,,12/09/2026 13:33
 5c99bde3-c3c7-4deb-be12-46f036734d81,tickle.beer,available,1.98,43.98,high,low,6,namecheap,,,11/09/2026 15:31
 16b20dcf-ad35-483c-b2c2-582296fdaa11,aflare.beer,available,1.98,43.98,medium,low,6,namecheap,,,
 82ac60b3-e5ee-4883-b2f3-064e40cf1542,slips.beer,available,2.19,32.49,high,low,5,namesilo,,,17/09/2026 12:24
 cc7c236c-c63f-4c31-a203-2d4219540b94,aspinwall.beer,available,2.19,32.49,medium,low,9,namesilo,,,20/09/2026 15:18
+c1b02aee-4299-47a5-87b0-f7c2dae0bcba,enzyme.beer,available,1.24,26.08,high,low,6,spaceship,,,29/09/2026 12:12
 ad1f56d2-60b2-43cd-89e7-b2bcc4b163b9,bethany.beer,available,1.24,26.08,medium,low,7,spaceship,,,28/09/2026 07:45
 17bdc9e1-5c2f-4553-bb58-3a6368dff3d1,sidearm.beer,available,1.98,43.98,high,medium,7,namecheap,,,10/09/2026 07:44
+7390fe18-4186-4d90-b344-1a2f413b1755,schedules.beer,available,1.24,26.08,medium,low,9,spaceship,,,29/09/2026 05:57
 cb422670-9d89-409a-b2d0-6e9ec0536bd5,awry.beer,premium,47.2,29.5,medium,low,4,namesilo,,,
 03da644c-e4e4-4fef-a83a-02128eeecc39,snapped.beer,available,2.19,32.49,medium,low,7,namesilo,,,18/09/2026 06:52
 1d65d430-a121-4cd0-a6ab-fdc267fc46f5,fungous.beer,available,1.98,43.98,medium,low,7,namecheap,,,18/08/2026 18:30
+82252e59-990e-45de-b8c0-b98a78aa1c57,flexibility.beer,available,2.19,32.49,high,low,11,namesilo,,,29/09/2026 16:16
 079863ee-8207-462d-a2f9-54412c6659d7,slightly.beer,available,1.98,43.98,medium,low,8,namecheap,,,16/09/2026 02:36
 6211ad9a-5cf4-4370-973e-14816881ddcc,venal.beer,available,1.98,43.98,medium,low,5,namecheap,,,11/08/2026 03:46
 654eebd9-a093-42af-8c16-acb98570c6e3,anasarca.beer,available,2.19,32.49,medium,low,8,namesilo,,,19/09/2026 03:14
@@ -444,7 +483,7 @@ d85936f4-d0e0-4074-b0f0-a4f86af748c5,reeking.beer,available,1.98,43.98,high,medi
 3cdea929-a280-4a82-8b1f-e50ff3ba21be,apophatic.beer,available,1.98,43.98,medium,low,9,namecheap,,,06/08/2026 02:27
 dda3dc69-7909-4cc9-9515-1223385ffda3,optimal.beer,available,1.98,43.98,high,low,7,namecheap,,,04/09/2026 17:01
 d3133ada-2507-4274-a679-d569bdc469c4,prospect.beer,available,25.2,25.2,high,low,8,cloudflare,,,28/09/2026 14:06
-78709193-26a6-4989-84ce-19c9b71a2104,talky.beer,available,1.98,43.98,medium,low,5,namecheap,,,12/08/2026 03:24
+78709193-26a6-4989-84ce-19c9b71a2104,talky.beer,available,1.98,43.98,high,low,5,namecheap,,,12/08/2026 03:24
 2d9053c3-26c7-491f-87c8-b528c92dfdb1,unaffected.beer,available,1.98,43.98,high,low,10,namecheap,,,11/09/2026 23:59
 2851a905-9701-43f5-a5e6-7e8e38902d59,bascule.beer,available,2.19,32.49,medium,low,7,namesilo,,,22/09/2026 09:54
 01d8de65-d686-4887-91be-a2a55697c6ee,scurvy.beer,available,1.98,43.98,medium,low,6,namecheap,,,
@@ -455,11 +494,11 @@ e343cc40-ae4c-44f7-aedc-7136286f4674,radioactive.beer,available,1.98,43.98,mediu
 902b166c-7f8a-4c98-9579-b9042b0b0db4,melting.beer,available,1.98,43.98,high,low,7,namecheap,,,23/08/2026 23:35
 70bd0ebe-77b6-4eda-ba70-82910f7d59a9,camisole.beer,available,2.19,32.49,high,low,8,namesilo,,,24/09/2026 11:52
 feee147d-4321-4f76-a0d2-530230bae883,liberate.beer,available,1.98,43.98,high,low,8,namecheap,,,18/08/2026 14:32
-e66fed35-424b-4014-addf-ba5af693e963,perfective.beer,available,1.98,43.98,medium,low,10,namecheap,,,08/09/2026 16:27
+e66fed35-424b-4014-addf-ba5af693e963,perfective.beer,available,1.98,43.98,high,low,10,namecheap,,,08/09/2026 16:27
 540af74d-2c16-4c6f-88ca-7679ec5d1e49,taradiddle.beer,available,2.19,32.49,medium,low,10,namesilo,,,21/09/2026 23:52
 d55e2816-068d-43be-8b86-c071962dc0a9,potter.beer,available,1.24,26.08,high,low,6,spaceship,,,27/09/2026 12:23
 7679fe99-b20e-46cd-a44d-535ec99b9005,groom.beer,available,25.2,25.2,high,low,5,cloudflare,,,27/09/2026 12:02
-5fabee0b-3b16-4d68-82ce-5b41654a33ae,foldaway.beer,available,1.98,43.98,medium,low,8,namecheap,,,18/08/2026 10:07
+5fabee0b-3b16-4d68-82ce-5b41654a33ae,foldaway.beer,available,1.98,43.98,high,low,8,namecheap,,,18/08/2026 10:07
 ea79513e-a49d-4b72-a600-2084e462eee6,azo.beer,premium,47.2,29.5,high,low,3,namesilo,,,08/08/2026 02:17
 814ae695-09bb-4618-9200-6e97cc44b3f9,published.beer,available,2.19,32.49,high,low,9,namesilo,,,27/09/2026 07:35
 0fdc1cf4-e4e3-4d66-bf56-d2b1836aa2d1,titular.beer,available,1.98,43.98,medium,low,7,namecheap,,,11/09/2026 16:32
@@ -477,23 +516,28 @@ d49aec14-9315-403c-8076-a0042347002c,interred.beer,available,1.98,43.98,medium,l
 e367af08-cabb-4182-9251-4699899ffd67,burlesque.beer,available,1.98,43.98,high,low,9,namecheap,,,11/08/2026 10:40
 1c3c9a71-113d-45a8-ab64-daca497c25d7,prosodic.beer,available,1.98,43.98,medium,low,8,namecheap,,,09/09/2026 03:39
 88c6aec7-2786-4a26-ac0b-15b0393452d2,prophecy.beer,available,1.24,26.08,high,low,8,spaceship,,,28/09/2026 10:47
+c0c4cc6d-c355-40ee-8e63-e200c406351f,pathological.beer,available,1.24,26.08,medium,low,12,spaceship,,,29/09/2026 21:08
 d3f2be64-0750-463b-b544-1eed5ecc3825,practical.beer,available,1.98,43.98,high,low,9,namecheap,,,21/08/2026 00:29
-20e10a5c-a157-48a1-88ef-a43da051f8b8,annie.beer,available,1.98,43.98,medium,low,5,namecheap,,,25/09/2026 18:17
+8ef80b05-1a52-4cf0-9500-69ce4b3e5ced,depended.beer,available,1.24,26.08,medium,low,8,spaceship,,,29/09/2026 17:13
+20e10a5c-a157-48a1-88ef-a43da051f8b8,annie.beer,available,1.98,43.98,high,low,5,namecheap,,,25/09/2026 18:17
 9e63c714-2b59-4c8c-b19b-c60d326c5ee0,ordained.beer,premium,47.2,29.5,medium,low,8,namesilo,,,13/08/2026 22:16
 47b0e486-3e10-4652-acd1-c8f8f1f84b9a,olfactive.beer,available,1.98,43.98,medium,low,9,namecheap,,,04/09/2026 02:13
 a2833862-39a5-4b90-908a-a5989abc1d7e,blamed.beer,available,1.98,43.98,medium,low,6,namecheap,,,10/08/2026 12:39
-e66a0219-a9a7-4864-80be-92696f0684b2,danceable.beer,available,1.99,46.99,medium,low,9,name.com,,,13/08/2026 16:59
+e66a0219-a9a7-4864-80be-92696f0684b2,danceable.beer,available,1.99,46.99,high,low,9,name.com,,,13/08/2026 16:59
 dc972928-2b85-43c0-b65a-21a1ee94a22f,buoyant.beer,available,1.98,43.98,high,low,7,namecheap,,,11/08/2026 10:06
 178983af-37c1-43d5-aeaa-376173447391,bonner.beer,available,2.19,32.49,high,low,6,namesilo,,,28/09/2026 07:28
+c355a017-c217-4940-831c-4a26320778eb,mutiny.beer,premium,2660,29.5,high,low,6,namesilo,,,29/09/2026 13:30
 e4d37775-cee6-437b-84af-9262b382df7b,afghani.beer,available,1.98,43.98,medium,low,7,namecheap,,,
 0e27e601-df4e-4213-a9d5-fd8126bdba91,sway.beer,available,2.19,32.49,high,low,4,namesilo,,,24/09/2026 12:53
 751e5c6f-ee48-4d83-941d-964c8de69c38,containing.beer,available,1.24,26.08,high,low,10,spaceship,,,29/09/2026 03:15
 bbe357e5-5b8d-4dad-ba3c-418907caeeb6,apparatus.beer,available,1.98,43.98,high,low,9,namecheap,,,19/09/2026 19:49
 ac1adfad-7c37-4e3c-9b20-8a8af737d137,kanaf.beer,available,1.98,43.98,medium,low,5,namecheap,,,23/09/2026 16:56
 c122b24a-b632-4ee5-875f-1d45787bd49a,topical.beer,available,1.98,43.98,high,low,7,namecheap,,,11/09/2026 17:42
+3ab7bdfe-9b4d-4d3f-ab67-d55eacf748b1,illustrious.beer,available,1.24,26.08,high,low,11,spaceship,,,29/09/2026 21:10
 ed7ecebb-3ba5-4bce-893e-8ebecca42058,substance.beer,available,1.98,43.98,high,low,9,namecheap,,,14/09/2026 23:41
 9c463e61-1cff-463a-bf38-e5c10053c4b7,alopex.beer,available,2.19,32.49,medium,low,6,namesilo,,,18/09/2026 13:19
 6bda2755-6a41-4ff5-82bd-a9e0863b0300,agone.beer,available,1.98,43.98,medium,low,5,namecheap,,,
+edf92008-66f8-496b-8894-e6a7a6b5c31c,yost.beer,available,1.24,26.08,medium,low,4,spaceship,,,29/09/2026 22:40
 5bbd4ec5-2398-4016-81b9-79d67078e4e2,umber.beer,available,1.98,43.98,high,low,5,namecheap,,,11/09/2026 22:59
 d62d46de-d4f1-472b-a999-03bbf9260fa4,eyeless.beer,available,1.98,43.98,medium,low,7,namecheap,,,17/08/2026 20:02
 46e0c516-3296-4403-9820-87766acefbe5,slogan.beer,available,2.19,32.49,high,low,6,namesilo,,,28/09/2026 18:37
@@ -505,6 +549,7 @@ e30771a9-e39b-446e-b9d2-42ae652d873b,rasta.beer,available,1.98,43.98,high,medium
 51fe200b-f0e6-4f24-91b7-b688291d17bc,cytologic.beer,available,1.99,46.99,medium,low,9,name.com,,,13/08/2026 14:39
 402e7736-38a4-4479-bdd7-1e50f8dd5a58,reverent.beer,available,1.98,43.98,high,low,8,namecheap,,,20/08/2026 16:08
 7ad74eb6-6824-4c05-822c-5e82ff880ff0,olympian.beer,available,1.98,43.98,high,low,8,namecheap,,,17/08/2026 16:01
+a84e82ef-d18b-48d6-a205-8f07bc16c11e,rhineland.beer,available,1.24,26.08,medium,low,9,spaceship,,,29/09/2026 13:52
 c53f4e58-d15f-44d8-b748-906364972f98,waxing.beer,available,1.98,43.98,high,low,6,namecheap,,,13/09/2026 08:44
 7f68dce0-8e7d-48c4-84db-3cfec6dad750,varicella.beer,available,2.19,32.49,medium,low,9,namesilo,,,24/09/2026 14:29
 1bdf4af7-2c73-43a7-b7af-25828c7eebdf,fortunate.beer,available,1.98,43.98,high,low,9,namecheap,,,18/08/2026 12:47
@@ -524,14 +569,15 @@ db3153f1-c492-4475-ab6d-b3384ec015ed,wai.beer,premium,41.6,26.08,high,low,3,spac
 cab70590-6bf0-46bf-a2b9-fbdde29311f6,magically.beer,available,1.98,43.98,high,low,9,namecheap,,,13/09/2026 21:17
 31b78d59-46c3-48b7-80e9-e075d4e2f5ab,profitless.beer,available,1.98,43.98,medium,low,10,namecheap,,,09/09/2026 02:50
 1573f0b2-88f2-4186-885a-d751efb49769,incidents.beer,premium,44,26.97,low,low,9,dynadot,,,29/09/2026 05:24
-6ce0c1ae-d6d2-41a5-b801-655b369e281f,chart.beer,available,2.19,32.49,high,low,5,namesilo,,,
+6ce0c1ae-d6d2-41a5-b801-655b369e281f,chart.beer,available,1.24,26.08,high,low,5,spaceship,,,29/09/2026 08:17
 ed2339f3-df7d-45b9-a209-afddb54581bb,cervical.beer,available,1.98,43.98,high,low,8,namecheap,,,12/08/2026 00:58
 0bf9d5c2-08bd-4502-ac42-3c836dc95711,dismay.beer,available,1.24,26.08,medium,low,6,spaceship,,,28/09/2026 20:03
 7b9370cf-6ccc-4715-b8b3-f42f38e1f47d,feelingly.beer,available,1.98,43.98,medium,low,9,namecheap,,,14/09/2026 18:18
 e76e74a8-c537-4320-9087-18a62ab405a4,mesmeric.beer,available,1.98,43.98,medium,low,8,namecheap,,,24/08/2026 21:13
-4cde6577-edbc-40e2-b8be-ddea05371fda,cinnamon.beer,premium,242,29.5,high,low,8,namesilo,,,
+4cde6577-edbc-40e2-b8be-ddea05371fda,cinnamon.beer,premium,242,29.5,high,low,8,namesilo,,,29/09/2026 07:51
 a2a5bba1-4dfe-42b2-a153-ffc48a7d6491,pallor.beer,available,2.19,32.49,medium,low,6,namesilo,,,17/09/2026 01:07
 a663874c-6a04-4832-b8b2-554812dbf872,aigret.beer,available,1.98,43.98,medium,low,6,namecheap,,,17/09/2026 20:56
+aa259ed1-28bb-4dec-9dc5-31518da4b5fc,commentator.beer,available,1.24,26.08,high,low,11,spaceship,,,29/09/2026 08:48
 19596385-c14c-4cc8-91b7-c16adaf4bdda,untroubled.beer,available,1.98,43.98,high,low,10,namecheap,,,10/09/2026 01:30
 2a78f347-36ce-4fb5-8538-81a8dc500d77,shinto.beer,available,1.98,43.98,high,medium,6,namecheap,,,10/09/2026 06:32
 e0c384f5-16e8-4367-b987-03789a0d927b,pending.beer,available,2.19,32.49,high,low,7,namesilo,,,27/09/2026 03:20
@@ -543,10 +589,12 @@ e9604281-886b-41b9-90e0-45551a15dc3d,murdering.beer,available,1.24,26.08,medium,
 38822b79-77f1-4d7f-bd90-55db29a29bb4,conceited.beer,available,1.98,43.98,medium,low,9,namecheap,,,12/08/2026 19:54
 6441e0c6-3c0c-48e0-97bf-7a211ca4e054,darkness.beer,available,1.99,46.99,high,low,8,name.com,,,13/08/2026 17:53
 dd0195d8-5768-4455-9477-d311242f6480,smallest.beer,available,2.19,32.49,medium,low,8,namesilo,,,28/09/2026 17:15
+1a21cead-6bc3-4be3-83de-0e8c7b259f3e,efl.beer,premium,,,high,low,3,,,,29/09/2026 09:34
 c3a7031e-4722-4555-b271-69a4b68be9b1,defended.beer,available,2.19,32.49,low,low,8,namesilo,,,29/09/2026 05:23
 cf565f13-3311-456b-9a02-04fe5da31b57,ytterbium.beer,available,2.19,32.49,medium,low,9,namesilo,,,20/09/2026 23:38
 d677e9c9-8de0-43ba-b212-8da7daf7c470,kit.beer,available,,,high,low,3,,,,
 b0fc0c7a-fa60-48b4-849c-f89fb987d496,bayesian.beer,available,1.98,43.98,medium,low,8,namecheap,,,09/08/2026 03:13
+3324eb66-b49e-4c60-97ef-7dd9452c61cb,revolving.beer,available,1.98,43.98,high,low,9,namecheap,,,29/09/2026 14:43
 5b16e047-bd63-479d-8711-7e12b75971b3,hutchison.beer,available,2.19,32.49,medium,low,9,namesilo,,,28/09/2026 22:09
 339569fc-4e8d-481e-826d-bf7f897e2a37,literally.beer,available,1.5,26.97,medium,low,9,dynadot,,,28/09/2026 16:10
 2ea4bb30-6533-41bd-8ade-238cc1eae831,ribbing.beer,available,1.98,43.98,medium,low,7,namecheap,,,11/09/2026 10:01
@@ -562,6 +610,7 @@ afde0c38-d427-4ab5-ac3e-aec4afa211eb,shrieked.beer,available,1.98,43.98,high,med
 ef912e69-feaa-4f7b-843b-10e086933258,neville.beer,available,1.98,43.98,high,low,7,namecheap,,,25/09/2026 18:10
 ec9bf5df-746d-4cff-9f63-9ae32da0f533,hail.beer,premium,52,32.5,high,low,4,namecheap,,,16/09/2026 22:38
 4ffc1969-4fa6-4d1d-86a3-cd47a18b78f5,emollient.beer,available,1.98,43.98,high,low,9,namecheap,,,14/08/2026 01:39
+993ed740-c997-44b6-9d07-b920568bda80,bids.beer,available,1.5,26.97,high,low,4,dynadot,,,29/09/2026 15:47
 7638a6d9-3a9b-4458-a86f-9f484c7820ac,oceangoing.beer,available,1.98,43.98,medium,low,10,namecheap,,,04/09/2026 00:20
 607746dd-9bbd-431b-a92c-2e1adb3c9017,arabia.beer,available,1.98,43.98,high,low,6,namecheap,,,19/09/2026 23:29
 12869778-3e83-4bc5-ab05-ef943ffb802d,shortage.beer,available,25.2,25.2,medium,low,8,cloudflare,,,28/09/2026 18:53
@@ -578,42 +627,48 @@ f7ecb165-211f-4c91-a35c-7b14b9c35d53,bands.beer,available,1.98,43.98,medium,low,
 4981f28f-a49a-4830-94f3-15895f03bad4,imprecise.beer,available,1.98,43.98,medium,low,9,namecheap,,,21/08/2026 23:00
 ef4dbb80-8d6a-4c95-951a-a4690d0d0314,fruitfully.beer,available,1.98,43.98,high,low,10,namecheap,,,14/09/2026 20:27
 a87e4827-4c68-45f4-acc1-4a17b0f19f7e,desires.beer,available,2.19,32.49,high,low,7,namesilo,,,17/09/2026 08:40
-4e5be310-8242-4dd4-bcc9-092ffa9e3ca6,tiro.beer,available,2.19,32.49,medium,low,4,namesilo,,,23/09/2026 02:28
+4e5be310-8242-4dd4-bcc9-092ffa9e3ca6,tiro.beer,available,2.19,32.49,high,low,4,namesilo,,,23/09/2026 02:28
 8c61f3dc-8f55-4843-8072-d71bc01b8d96,lookout.beer,available,2.19,32.49,high,low,7,namesilo,,,
 f89fe7a6-5162-471f-8ca6-7d27fed7c874,written.beer,available,25.2,25.2,high,low,7,cloudflare,,,27/09/2026 18:44
 23372847-1c0c-4304-8c46-90b18505c252,mexicans.beer,available,2.19,32.49,medium,low,8,namesilo,,,18/09/2026 23:08
+ae5323f1-7670-47b4-aeef-a14c2b38f98d,rabies.beer,available,1.24,26.08,medium,low,6,spaceship,,,29/09/2026 19:34
 14ef3087-c6b5-4407-9a5b-75f178d7f179,antonymous.beer,available,1.98,43.98,medium,low,10,namecheap,,,05/08/2026 20:16
+35e8b45c-a89d-4a13-be43-2dd0bd4c7bc8,chico.beer,available,1.24,26.08,high,low,5,spaceship,,,29/09/2026 18:18
 1697f04f-4b35-4413-981b-ec4c875890cf,vaned.beer,available,1.98,43.98,medium,low,5,namecheap,,,13/09/2026 01:06
 6d5f3602-081f-40ab-8221-423ada749b48,artefact.beer,available,2.19,32.49,high,low,8,namesilo,,,20/09/2026 10:07
 821f8f52-e02c-4003-bdee-2088a1adbab4,ucla.beer,available,2.19,32.49,high,low,4,namesilo,,,25/09/2026 15:03
 6e0b0360-9fa8-4129-a1c3-f4e0fb3c4e7f,westmoreland.beer,available,25.2,25.2,high,low,12,cloudflare,,,28/09/2026 04:13
+80a125c9-faa2-4b66-b480-a4c30e9f64fc,descended.beer,available,2.19,32.49,medium,low,9,namesilo,,,29/09/2026 10:16
 2af3b61c-2224-4320-8d97-d4a7e7b41f90,foundling.beer,available,1.98,43.98,medium,low,9,namecheap,,,16/09/2026 13:56
 92b05e8f-de05-4f29-b84e-9a4291a739ca,renewable.beer,available,1.98,43.98,high,low,9,namecheap,,,09/09/2026 14:03
+47de424f-ae0e-4ada-9e14-673c05405100,hearn.beer,available,1.24,26.08,high,low,5,spaceship,,,29/09/2026 15:40
 37bf56af-aa90-416f-8a8a-991d27f1af57,kathy.beer,available,1.24,26.08,high,low,5,spaceship,,,27/09/2026 19:14
 7a4292d1-9eba-4d24-bde2-f6025d8bdb44,thursday.beer,available,2.19,32.49,high,low,8,namesilo,,,25/09/2026 14:47
 9faa1423-8e34-41d6-989e-72232a64adb3,pyrrhic.beer,available,1.98,43.98,medium,low,7,namecheap,,,09/09/2026 07:12
+828f6c30-4dba-457f-8c46-eff9ccd74beb,stahl.beer,available,2.19,32.49,high,low,5,namesilo,,,29/09/2026 11:00
 584058f2-6f17-454f-85a8-a33a405e0af8,indisposed.beer,available,1.98,43.98,medium,low,10,namecheap,,,
-67290f11-c422-4aed-8cf1-a18d06904402,camouflage.beer,available,2.19,32.49,high,low,10,namesilo,,,
+67290f11-c422-4aed-8cf1-a18d06904402,camouflage.beer,available,25.2,25.2,high,low,10,cloudflare,,,29/09/2026 06:05
 e1da321b-c04b-4d90-944c-7eb3de097551,sterilization.beer,available,1.98,43.98,high,low,13,namecheap,,,16/09/2026 21:54
 7887bc3b-518f-4d2d-9189-94399704ce4a,turnbull.beer,available,1.54,26.26,medium,low,8,porkbun,,,28/09/2026 08:25
 91ff1c70-7d61-43c1-be3d-6574248a6680,position.beer,available,2.19,32.49,high,low,8,namesilo,,,19/09/2026 04:25
 aa5067be-f716-4c99-bd56-164c645fdd08,principal.beer,available,2.19,32.49,high,low,9,namesilo,,,27/09/2026 05:53
 e99df415-f437-4d97-9762-34f5603a074c,splenic.beer,available,1.99,46.99,medium,low,7,name.com,,,23/08/2026 01:27
+b906a450-fc4c-48d1-a885-eb105a612744,guidelines.beer,available,25.2,25.2,medium,low,10,cloudflare,,,29/09/2026 17:19
 5560d34f-e139-4f0a-bbe9-7ff7d3fe9800,robust.beer,available,1.98,43.98,high,low,6,namecheap,,,18/08/2026 18:02
 53bffb88-3dcf-46ea-b44e-7a296ba1c66e,aerofoil.beer,available,2.19,32.49,medium,low,8,namesilo,,,17/09/2026 13:00
 8d67001b-fb56-45d3-9661-87e642c4074c,regent.beer,available,1.98,43.98,high,medium,6,namecheap,,,09/09/2026 12:52
-a47f0e5f-2040-4154-b36f-77f59f2a923f,denial.beer,available,2.19,32.49,high,low,6,namesilo,,,
+a47f0e5f-2040-4154-b36f-77f59f2a923f,denial.beer,available,1.5,26.97,high,low,6,dynadot,,,29/09/2026 13:58
 ee29fc8e-1fdc-4c0b-8fd7-87c97422b2f4,towering.beer,available,1.98,43.98,high,low,8,namecheap,,,11/09/2026 18:24
 a647b0c8-f0e6-4f36-9cf3-20a003531b10,arctangent.beer,available,2.19,32.49,medium,low,10,namesilo,,,20/09/2026 01:30
 eb4d40ce-f373-439c-ad4b-eac147023fe2,dismissed.beer,available,2.19,32.49,medium,low,9,namesilo,,,24/09/2026 11:01
 1e6e4e20-3c5f-42c2-8cc9-2d109ef9ebfe,airway.beer,available,2.19,32.49,high,low,6,namesilo,,,17/09/2026 22:13
 a2210927-96b7-4dc7-855c-76caf28c2b3c,trolling.beer,available,2.19,32.49,medium,low,8,namesilo,,,
-6d1ed2f0-b006-4a46-a811-07388007789c,voluminous.beer,available,1.98,43.98,medium,low,10,namecheap,,,13/08/2026 00:30
+6d1ed2f0-b006-4a46-a811-07388007789c,voluminous.beer,available,1.98,43.98,high,low,10,namecheap,,,13/08/2026 00:30
 990d07a8-e2c2-4705-af36-dc452cb63e84,arboreal.beer,available,1.98,43.98,high,low,8,namecheap,,,06/08/2026 13:18
 45d06aef-cb56-4b3d-a8cc-a26b5eeca550,pervasive.beer,available,1.98,43.98,high,low,9,namecheap,,,08/09/2026 17:44
 14d98603-acd9-47a3-92c9-c79be1bfae43,treelike.beer,available,1.98,43.98,medium,low,8,namecheap,,,06/08/2026 14:01
 a694be98-1107-432f-ac89-249afa02ab58,beekeeping.beer,available,2.19,32.49,high,low,10,namesilo,,,19/09/2026 17:24
-746be6e4-6ff9-4527-b4ac-c9b2b380fbcb,queenly.beer,available,1.98,43.98,medium,low,7,namecheap,,,09/09/2026 07:52
+746be6e4-6ff9-4527-b4ac-c9b2b380fbcb,queenly.beer,available,1.98,43.98,high,low,7,namecheap,,,09/09/2026 07:52
 a9db86f6-f36c-4f68-8efc-527044b146cd,bulla.beer,available,2.19,32.49,medium,low,5,namesilo,,,24/09/2026 05:20
 dffb7c66-6b41-4c9b-97c8-5199bf4b5ea0,undyed.beer,available,1.98,43.98,medium,low,6,namecheap,,,12/09/2026 02:08
 68303572-4e28-40d5-b1ed-b0bf950ba598,megalithic.beer,available,1.98,43.98,medium,low,10,namecheap,,,24/08/2026 19:24
@@ -624,10 +679,14 @@ f6ad3f57-6891-436f-ae42-a018c3f1b111,doob.beer,available,1.98,43.98,medium,low,4
 3f825af2-d57d-4155-abea-80c1596c44ba,acadian.beer,available,1.98,43.98,high,low,7,namecheap,,,16/09/2026 20:29
 29fa986c-8867-4cc1-8220-a8c2961d0d6d,sleek.beer,available,1.98,43.98,high,low,5,namecheap,,,18/08/2026 09:13
 b9a0c3c1-5b86-45bf-8401-c341ac5fb7c1,woodsy.beer,available,,,high,low,6,,,,
+df1d67c6-0682-4db8-9344-0d8a14bc3e5f,mindfulness.beer,available,2.19,32.49,high,low,11,namesilo,,,29/09/2026 10:40
 a96dbb77-4b60-4e64-82e1-1b2faa9db060,equatorial.beer,available,1.98,43.98,high,low,10,namecheap,,,17/08/2026 11:40
+3d72e219-8b96-466f-ba47-76fa2797dfc2,jeanette.beer,available,2.19,32.49,high,low,8,namesilo,,,29/09/2026 09:37
 efe22fc4-cce4-40a6-aa86-ef555d05d606,zaire.beer,available,2.19,32.49,high,medium,5,namesilo,,,23/09/2026 04:58
 3f24feec-4578-470b-9ac9-bd7b5b4bc538,dampish.beer,available,1.99,46.99,medium,low,7,name.com,,,13/08/2026 16:41
-7f69fd87-1d4c-4b6b-920d-a64190eea134,antifreeze.beer,available,1.98,43.98,medium,low,10,namecheap,,,19/09/2026 14:23
+7f69fd87-1d4c-4b6b-920d-a64190eea134,antifreeze.beer,available,1.98,43.98,high,low,10,namecheap,,,19/09/2026 14:23
+c276b692-871c-44d7-89c7-32062bb39583,injunction.beer,available,1.98,43.98,high,low,10,namecheap,,,29/09/2026 18:16
+2a1b1b20-7bda-43cc-9c99-c9b6ff27bfdd,pearce.beer,available,25.2,25.2,high,low,6,cloudflare,,,29/09/2026 15:07
 68e64af8-aad3-4661-9685-a2fa194660b8,appreciation.beer,available,2.19,32.49,high,low,12,namesilo,,,
 b242e785-e1e3-4265-8884-f47eeac2049e,stints.beer,available,1.98,43.98,medium,low,6,namecheap,,,20/09/2026 14:23
 ce64132f-bbf4-4578-bb10-3e62f55081c2,realistic.beer,available,1.98,43.98,high,low,9,namecheap,,,03/09/2026 13:57
@@ -635,20 +694,23 @@ aa3ec22f-5929-4447-ac68-27b7a2d0c157,staffing.beer,available,1.5,26.97,high,low,
 a326db50-aaac-45fe-a476-de0ded58dff7,interlaced.beer,available,1.98,43.98,medium,low,10,namecheap,,,22/08/2026 08:04
 6cc4ea2e-8a4c-47bf-aec5-026f9a876f1e,scapegrace.beer,available,2.19,32.49,medium,low,10,namesilo,,,24/09/2026 01:41
 abe7e9e8-78ba-49d4-ba69-b25db311e48c,tests.beer,available,2.19,32.49,medium,low,5,namesilo,,,17/09/2026 22:12
-fc08190e-b25a-4905-9263-de83be2a6b68,weaponry.beer,available,2.19,32.49,medium,low,8,namesilo,,,20/09/2026 07:43
+fc08190e-b25a-4905-9263-de83be2a6b68,weaponry.beer,available,2.19,32.49,high,low,8,namesilo,,,20/09/2026 07:43
 25dbf595-4728-426d-a6b6-20d08d06d9ee,officials.beer,available,2.19,32.49,medium,low,9,namesilo,,,17/09/2026 12:28
 1fb27701-eb5c-41f3-a280-93afd6a8f2c7,unreal.beer,available,1.98,43.98,high,low,6,namecheap,,,22/09/2026 09:00
 8b9f3df2-3d7d-4eb5-ba5b-3be8c3bfd1ac,laid.beer,available,1.98,43.98,high,low,4,namecheap,,,25/09/2026 13:04
 c62bfe2b-679e-4457-9cd6-92aa8a3b267a,sterilizer.beer,available,2.19,32.49,medium,low,10,namesilo,,,21/09/2026 06:04
-b396bf3e-c956-4a7e-82c4-ce66c5a4d0b1,riemannian.beer,available,1.98,43.98,medium,low,10,namecheap,,,09/09/2026 17:21
+b396bf3e-c956-4a7e-82c4-ce66c5a4d0b1,riemannian.beer,available,1.98,43.98,high,low,10,namecheap,,,09/09/2026 17:21
 1082f5d3-d830-482c-a539-1252a04628b4,steam.beer,resell,,,high,medium,5,"GoDaddy.com, LLC",24/04/2021 08:19,24/04/2027 08:19,26/09/2026 09:17
 c95bcd5b-b93e-4a7e-a8cf-6f945f9ed3b2,reviving.beer,available,1.98,43.98,high,low,8,namecheap,,,09/09/2026 14:08
 41c4b37e-4275-4782-b0e6-376ea9246dde,shaven.beer,available,1.98,43.98,high,medium,6,namecheap,,,10/09/2026 06:07
 2d7f151d-1ad4-4daf-a2f8-1d249eccdd5e,arequipa.beer,premium,47.2,29.5,medium,low,8,namesilo,,,20/09/2026 03:53
 a25df3eb-52a4-4065-b0fa-3a1e7f13fca1,detergent.beer,available,1.98,43.98,high,low,9,namecheap,,,24/09/2026 07:32
+04777122-9abf-4521-8efb-4fa3e2e22582,funerals.beer,premium,47.2,29.5,medium,low,8,namesilo,,,29/09/2026 17:32
+75b92b33-9b2a-44d8-a2cb-18e8d06f7d28,spectator.beer,available,1.24,26.08,high,low,9,spaceship,,,29/09/2026 13:19
 98120a0a-e8b1-4d48-b142-c3c0d9c7fb52,environmentally.beer,available,2.19,32.49,medium,low,15,namesilo,,,
 24aea0ee-e834-43b8-8837-8aead37f9c91,undefiled.beer,available,1.98,43.98,medium,low,9,namecheap,,,12/09/2026 06:15
 bce33f32-d0b0-4629-90c6-e5cdd528a088,springlike.beer,available,1.98,43.98,medium,low,10,namecheap,,,10/09/2026 16:53
+9e545b8e-0b19-4cc3-a6fc-c4e92714562f,banished.beer,available,1.24,26.08,medium,low,8,spaceship,,,29/09/2026 16:26
 2860aacf-55aa-4b01-9a92-e488cc922b80,alp.beer,premium,512,29.5,high,low,3,namesilo,,,18/09/2026 13:29
 f26f49c5-5d77-4346-bfdd-65ddac832fe4,severed.beer,premium,50,46.99,medium,low,7,name.com,,,13/08/2026 12:32
 3f5f6424-aad7-45b1-9013-c5af7efcb206,other.beer,available,2.19,32.49,high,low,5,namesilo,,,26/09/2026 00:34
@@ -656,20 +718,20 @@ f26f49c5-5d77-4346-bfdd-65ddac832fe4,severed.beer,premium,50,46.99,medium,low,7,
 280266f8-68d4-461b-9665-856b5aa30f42,recommendation.beer,available,43.98,,high,low,14,namecheap,,,
 69c4b45b-0d72-42d6-bcf3-66076b02806b,bulls.beer,available,2.19,32.49,high,low,5,namesilo,,,28/09/2026 07:33
 9910ff54-0422-47a1-abab-d8eba7e8953a,graphical.beer,available,1.98,43.98,high,low,9,namecheap,,,20/08/2026 18:11
-38e424cd-4bc4-41da-95b4-540765fe8b3d,jewel.beer,available,2.19,32.49,high,low,5,namesilo,,,
+38e424cd-4bc4-41da-95b4-540765fe8b3d,jewel.beer,available,25.2,25.2,high,low,5,cloudflare,,,30/09/2026 00:50
 f404e5c9-7d79-4b3d-9e73-a55fb3b8ef37,bilges.beer,available,2.19,32.49,medium,low,6,namesilo,,,23/09/2026 15:54
 1201ea9f-585c-4a45-80dd-7f266be78bac,fizzle.beer,available,1.98,43.98,medium,low,6,namecheap,,,11/08/2026 11:19
 20ee7109-3716-4d78-bdef-2601538f512f,dart.beer,available,1.98,43.98,high,low,4,namecheap,,,18/08/2026 07:49
 e1422db0-8040-4983-a120-6998cace8302,illicit.beer,available,1.98,43.98,high,low,7,namecheap,,,21/08/2026 19:50
+6abbc0e1-d809-4326-af9d-f725d6f5f5e4,imagining.beer,available,1.24,26.08,high,low,9,spaceship,,,29/09/2026 14:49
 f9f96b50-7baa-4293-9607-c51cc9fa71b9,survived.beer,available,1.98,43.98,medium,low,8,namecheap,,,19/09/2026 19:18
 6cf4aa08-80dc-4cd7-9048-7f44546d2761,shortest.beer,available,2.19,32.49,medium,low,8,namesilo,,,17/09/2026 14:24
-5012bfc6-b607-42d0-a365-5aa8bfcd269f,critic.beer,available,,,high,low,6,,,,
 690f7a79-980d-4248-906a-e270deb3bd09,qualification.beer,available,43.98,,high,low,13,namecheap,,,
 4e9e797b-6235-4591-bb6b-8db9fea9dc72,microwave.beer,available,43.98,,high,low,9,namecheap,,,
 1d7e02e6-86ac-4a6e-817d-e5d4c88590b2,age.beer,premium,96,29.5,high,low,3,namesilo,,,19/09/2026 07:13
 54bcceab-dd3c-400a-93af-49b0d8e1ba12,cognisance.beer,available,2.19,32.49,high,low,10,namesilo,,,21/09/2026 09:57
-ca36908e-7dc4-4d6e-8b08-24ad563a8b9e,aspic.beer,available,1.98,43.98,medium,low,5,namecheap,,,20/09/2026 15:11
-26466f47-ee0b-4f0e-9ba4-bdda5b7fc8c0,europe.beer,available,,,high,low,6,,,,
+ca36908e-7dc4-4d6e-8b08-24ad563a8b9e,aspic.beer,available,1.98,43.98,high,low,5,namecheap,,,20/09/2026 15:11
+26466f47-ee0b-4f0e-9ba4-bdda5b7fc8c0,europe.beer,premium,2183.84,27.82,high,medium,6,porkbun,,,29/09/2026 10:27
 59a264c8-7e29-4fd4-8873-02e2879c89e0,remington.beer,available,,,high,low,9,,,,
 4f0d1a6a-333c-432f-841f-daf5e05c7893,vesture.beer,available,1.98,43.98,medium,low,7,namecheap,,,13/09/2026 09:02
 de5ae574-6cd2-4c3c-b19b-14dc7b0bedef,nappy.beer,available,1.98,43.98,high,low,5,namecheap,,,18/08/2026 16:10
@@ -681,20 +743,22 @@ adae3e39-80cb-4d4d-ade0-e3f1fee6c767,uric.beer,available,1.98,43.98,medium,low,4
 9d39a075-8260-4ff1-9bf3-e8bc4842adca,xlviii.beer,available,1.98,43.98,medium,low,6,namecheap,,,
 8258bb9a-1813-4a6d-9b2d-566b73e6572e,donatus.beer,available,2.19,32.49,medium,low,7,namesilo,,,17/09/2026 12:26
 2a6a7f61-3001-4956-a9ef-db0ba1e059ca,watches.beer,premium,52,32.5,high,low,7,namecheap,,,16/09/2026 10:07
-21b3765a-0032-451e-a1ea-892e84bd789c,grouping.beer,available,43.98,,high,low,8,namecheap,,,
+21b3765a-0032-451e-a1ea-892e84bd789c,grouping.beer,available,1.5,26.97,high,low,8,dynadot,,,29/09/2026 21:36
+fbc5c474-780a-4ce1-9fa7-1e7684476a07,rewrite.beer,available,2.19,32.49,high,low,7,namesilo,,,29/09/2026 13:47
 88f36817-3105-45d4-850f-22e8497ae813,patientcare.beer,available,2.19,32.49,high,low,11,namesilo,,,
 f2794c2e-29c6-499a-8587-34303eaac7cd,apiarian.beer,available,1.98,43.98,medium,low,8,namecheap,,,05/08/2026 23:53
 bd4140fe-e0bf-4794-9306-f4b75620da88,decca.beer,available,2.19,32.49,medium,low,5,namesilo,,,28/09/2026 21:44
-df16abf0-2a0f-4b36-8989-25f1a41f52bb,theorise.beer,available,2.19,32.49,medium,low,8,namesilo,,,24/09/2026 17:20
+df16abf0-2a0f-4b36-8989-25f1a41f52bb,theorise.beer,available,2.19,32.49,high,low,8,namesilo,,,24/09/2026 17:20
 4be1e29b-146e-4c22-8b9d-8861f414f2f3,divergent.beer,available,1.98,43.98,high,low,9,namecheap,,,14/08/2026 13:35
 35bd9abd-0395-42b4-8750-b494a1780c76,lever.beer,available,2.19,32.49,high,low,5,namesilo,,,28/09/2026 14:32
+ebda3d01-3753-4dd0-9959-5d817bcaedb8,aimed.beer,available,1.24,26.08,high,low,5,spaceship,,,29/09/2026 10:43
 6e144226-4277-4ff2-839e-d55aa5ed3967,vocational.beer,available,1.98,43.98,high,low,10,namecheap,,,13/09/2026 06:29
 cb7a0b53-5155-4317-989c-db84cb3c5a39,appointment.beer,available,25.2,25.2,high,low,11,cloudflare,,,28/09/2026 06:29
 b13999ca-91fc-4563-9049-d0f3ff96b16b,thoughtful.beer,available,1.98,43.98,high,low,10,namecheap,,,21/08/2026 05:59
 ce079644-5e61-4900-87ff-5731dcaf85f8,valparaiso.beer,available,2.19,32.49,medium,low,10,namesilo,,,29/09/2026 02:28
 f5affa54-fece-468d-8e8e-b9642c4ab2aa,bimetal.beer,available,1.98,43.98,high,low,7,namecheap,,,09/08/2026 22:52
 4b14229f-a62f-4bc4-acf9-3595d58df7f8,hallowmas.beer,available,2.19,32.49,medium,low,9,namesilo,,,18/09/2026 09:30
-8aa44ce1-1912-4964-9810-eaada3fcfcfa,candidly.beer,available,1.98,43.98,medium,low,8,namecheap,,,14/09/2026 05:06
+8aa44ce1-1912-4964-9810-eaada3fcfcfa,candidly.beer,available,1.98,43.98,high,low,8,namecheap,,,14/09/2026 05:06
 392b5750-6d98-4b7a-b847-6c3a18217604,firework.beer,available,1.98,43.98,high,low,8,namecheap,,,09/09/2026 07:10
 f63e6d40-3c58-4cbd-8f75-48d580d351d6,inertial.beer,available,1.98,43.98,medium,low,8,namecheap,,,22/08/2026 03:59
 95b20fbb-1a47-4ecf-a914-4ee0072f1162,automat.beer,available,2.19,32.49,high,low,7,namesilo,,,21/09/2026 06:52
@@ -717,23 +781,25 @@ c590491a-a531-4121-aa1a-ebe00712d071,lunisolar.beer,available,1.98,43.98,medium,
 406835cf-c65c-447e-b6ba-f3628fd715f1,barbaric.beer,available,1.98,43.98,medium,low,8,namecheap,,,08/08/2026 15:31
 2162a068-a8c8-49a5-879d-c81343980119,coal.beer,available,25.2,25.2,high,low,4,cloudflare,,,28/09/2026 01:38
 4762392e-8e50-4181-a387-0c464166a12a,xxxiv.beer,available,1.98,43.98,medium,low,5,namecheap,,,
-4569824b-1e7b-4eca-a66e-0224cef2436f,katabatic.beer,available,1.98,43.98,medium,low,9,namecheap,,,11/08/2026 20:41
+4569824b-1e7b-4eca-a66e-0224cef2436f,katabatic.beer,available,1.98,43.98,high,low,9,namecheap,,,11/08/2026 20:41
 887e6a0b-0753-43ca-a7d9-e470e30369d6,esthete.beer,available,1.98,43.98,high,low,7,namecheap,,,17/09/2026 13:35
 a846ec79-c336-4054-8ccb-c14e9028e319,coy.beer,premium,47.2,29.5,high,low,3,namesilo,,,24/09/2026 01:10
 095d2d2b-30c2-4709-87b4-5848c2c29383,applicator.beer,available,2.19,32.49,medium,low,10,namesilo,,,19/09/2026 21:55
-8b7ac767-df59-4c4a-8692-2e17f89b7fe5,unaltered.beer,available,1.98,43.98,medium,low,9,namecheap,,,12/09/2026 00:30
+8b7ac767-df59-4c4a-8692-2e17f89b7fe5,unaltered.beer,available,1.98,43.98,high,low,9,namecheap,,,12/09/2026 00:30
+e56ce5d2-2877-4626-a6e1-0dc1c376c363,poorer.beer,available,25.2,25.2,low,low,6,cloudflare,,,29/09/2026 23:56
 1a062e75-bc24-4f13-b043-d54580a6eeed,cfr.beer,premium,47.2,29.5,medium,low,3,namesilo,,,28/09/2026 11:55
 48f96d6d-5a01-4071-9bc7-d94b86a44cb5,wickham.beer,available,2.19,32.49,medium,low,7,namesilo,,,29/09/2026 05:45
 d114e80b-8769-44b3-8ef7-9619d5846519,workplace.beer,available,2.19,32.49,high,low,9,namesilo,,,29/09/2026 02:38
 3b50e084-05b7-4411-82be-5ad7cbbbae8f,cadillac.beer,available,2.19,32.49,high,low,8,namesilo,,,
-ce3eaede-f978-489e-9770-1ba1a63c5107,balanchine.beer,available,1.98,43.98,medium,low,10,namecheap,,,21/09/2026 20:54
+ce3eaede-f978-489e-9770-1ba1a63c5107,balanchine.beer,available,1.98,43.98,high,low,10,namecheap,,,21/09/2026 20:54
 7f9ff007-0806-4577-8f7c-b887046716b4,quarter.beer,available,1.24,26.08,high,low,7,spaceship,,,28/09/2026 00:50
 96f7147b-2d3e-4a25-a75c-6a408cdd0c2c,yamaha.beer,available,25.2,25.2,high,low,6,cloudflare,,,29/09/2026 03:39
 acb31063-2508-41e9-8667-8d5cda867810,unmined.beer,available,1.98,43.98,medium,low,7,namecheap,,,12/09/2026 15:41
 700e99d2-6619-4519-ab41-b54dc95c3713,commentate.beer,available,2.19,32.49,high,low,10,namesilo,,,
 a3e7dc77-7965-4cb9-b7fe-c7404068242c,oxonian.beer,available,1.98,43.98,medium,low,7,namecheap,,,04/09/2026 22:32
+732f3e89-bc77-477c-a933-0f4b520c6b08,brethren.beer,available,1.24,26.08,high,low,8,spaceship,,,30/09/2026 00:52
 a84486d7-8424-49be-a86a-04ecf0431d81,masked.beer,available,1.98,43.98,high,low,6,namecheap,,,12/08/2026 11:32
-3904c55c-f32e-489f-b4dd-8215f21657b8,amass.beer,available,1.98,43.98,medium,low,5,namecheap,,,12/08/2026 16:53
+3904c55c-f32e-489f-b4dd-8215f21657b8,amass.beer,available,1.98,43.98,high,low,5,namecheap,,,12/08/2026 16:53
 f61bba11-816f-4aaf-b8bd-e4dfdf55a14b,very.beer,premium,242,29.5,high,low,4,namesilo,,,27/09/2026 09:52
 27296352-5c8f-42d8-b6be-c21bfc5b597d,physical.beer,available,1.98,43.98,high,low,8,namecheap,,,08/09/2026 15:48
 224d460d-6c7c-456e-8096-3dbf20eb3bc0,ismaili.beer,available,1.98,43.98,high,low,7,namecheap,,,22/08/2026 10:53
@@ -752,7 +818,7 @@ ac006dd6-b0e0-4f27-974a-5575991d3431,kazan.beer,available,2.19,32.49,high,low,5,
 9017a316-b2ec-4329-8d59-a4ebfff4cc73,sniffly.beer,available,1.98,43.98,high,medium,7,namecheap,,,10/09/2026 12:35
 8e42d2bc-bb71-437c-9abc-1a7b0806467d,afternoon.beer,available,1.24,26.08,high,low,9,spaceship,,,28/09/2026 19:25
 90db8c71-a842-454e-add7-c5907fe26717,swinburne.beer,available,2.19,32.49,medium,low,9,namesilo,,,18/09/2026 07:03
-71d7a427-f06c-4cbb-b032-9865c03f7af1,nestorian.beer,available,1.98,43.98,medium,low,9,namecheap,,,03/09/2026 15:50
+71d7a427-f06c-4cbb-b032-9865c03f7af1,nestorian.beer,available,1.98,43.98,high,low,9,namecheap,,,03/09/2026 15:50
 08b267f4-b969-4871-9084-c080067c3929,graves.beer,available,2.19,32.49,high,low,6,namesilo,,,28/09/2026 05:52
 1e4af7e0-ca56-40ee-83e8-a09de6bb9075,putrid.beer,available,1.98,43.98,high,medium,6,namecheap,,,09/09/2026 06:43
 f18690ab-f8a2-4e32-b2bf-3cbfd0cb03ca,disgusted.beer,premium,47.2,29.5,medium,low,9,namesilo,,,14/08/2026 10:30
@@ -764,6 +830,7 @@ d87c8ef3-5b4e-4ba5-a80f-697db87fff30,baronet.beer,available,2.19,32.49,high,low,
 d7b77057-fe38-47bb-9628-c006791c4689,bellyband.beer,available,2.19,32.49,medium,low,9,namesilo,,,23/09/2026 06:51
 c028ab62-afdd-4703-8209-3e2c27a44430,honeybee.beer,available,2.19,32.49,high,low,8,namesilo,,,19/09/2026 17:30
 3004fbac-14bf-42df-bcb0-66a72413c680,sarajevo.beer,available,1.24,26.08,high,low,8,spaceship,,,28/09/2026 06:43
+d799cf9b-7daa-4d7e-ac83-a4cacff090d4,deb.beer,premium,,,medium,low,3,,,,29/09/2026 06:35
 88bde75e-a08a-4cec-8aee-c061049bbd32,fraught.beer,available,1.98,43.98,medium,low,7,namecheap,,,18/08/2026 14:23
 3f4111c5-1c8c-4e26-8d83-571e48ebff84,unfilmed.beer,available,1.98,43.98,medium,low,8,namecheap,,,12/09/2026 10:14
 ed172c78-7089-49d9-85bc-0a9faf4a0473,draft.beer,premium,3450,640,high,low,5,namesilo,,,23/09/2026 16:03
@@ -782,31 +849,36 @@ c5c21170-e34b-40a1-8010-63a6a49eaf04,offend.beer,available,1.24,26.08,medium,low
 c1e766c2-5f06-495b-91f5-6fecff968b0a,sonsy.beer,available,1.98,43.98,medium,low,5,namecheap,,,10/08/2026 20:35
 015dab18-5ef2-4aed-80fb-64c862d5068e,reflexes.beer,available,1.98,43.98,medium,low,8,namecheap,,,19/09/2026 23:46
 96bf1292-bab0-4d70-835e-dba05c7c1dc3,blazers.beer,available,2.19,32.49,medium,low,7,namesilo,,,20/09/2026 11:38
+ce77ef6b-f47a-403d-820b-e5ffa20cfbaf,kirsten.beer,available,2.19,32.49,high,low,7,namesilo,,,29/09/2026 21:51
 bcf323d7-8d1b-4b2a-bb2a-02ff411b4334,rendezvous.beer,available,1.24,26.08,high,low,10,spaceship,,,28/09/2026 20:18
 c8f04466-8035-4286-b92b-3ad9ccec4f3e,norther.beer,available,1.98,43.98,medium,low,7,namecheap,,,03/09/2026 21:34
 13734370-6f99-41af-8b28-5ac55a8bf14c,awfully.beer,available,2.19,32.49,medium,low,7,namesilo,,,22/09/2026 15:26
+f39a7a66-797e-467d-aa6f-fb71ee56806a,practitioner.beer,available,2.19,32.49,high,low,12,namesilo,,,29/09/2026 14:23
 273ca02c-1e9e-40b6-ab6c-aad2486f95a1,bey.beer,premium,47.2,29.5,medium,low,3,namesilo,,,23/09/2026 12:10
 95d14dc0-27b5-4cbd-972c-115108690044,sultrily.beer,available,1.98,43.98,medium,low,8,namecheap,,,16/09/2026 01:00
 d899a7bc-16c8-4e0b-90e0-02bfb4b2d24e,consul.beer,available,1.98,43.98,high,low,6,namecheap,,,24/09/2026 17:37
 5f533460-2787-46d2-a73d-70c8300fbb45,alizarine.beer,available,2.19,32.49,medium,low,9,namesilo,,,18/09/2026 08:13
 77ae3c9e-8493-4967-946b-c537821287d1,bounden.beer,available,1.98,43.98,medium,low,7,namecheap,,,10/08/2026 21:56
 73f1d28a-510b-4f0c-a0af-4fabcd549eb6,khz.beer,premium,47.2,29.5,high,low,3,namesilo,,,25/09/2026 08:09
+f2dbc202-a052-42c7-9a61-b320e6463dd8,pilgrims.beer,available,1.5,26.97,medium,low,8,dynadot,,,29/09/2026 11:05
+c856e4fb-5fea-42a7-b00d-6599989da83b,ibsen.beer,available,25.2,25.2,high,low,5,cloudflare,,,29/09/2026 13:02
 ce3622c5-ccbe-4bfd-b04e-4f6ab40e6a4f,mangold.beer,available,1.98,43.98,medium,low,7,namecheap,,,23/09/2026 11:02
 14ca4476-35d8-4c54-b68c-f96f9c20cee8,salvadoran.beer,available,1.98,43.98,high,medium,10,namecheap,,,09/09/2026 21:01
 d0a7ee17-acb0-4af6-8006-3104316a71e6,kang.beer,premium,83,26.08,medium,low,4,spaceship,,,28/09/2026 11:38
 32ebb4b3-1344-4d75-8299-ab025bf30e2b,decolour.beer,available,1.98,43.98,medium,low,8,namecheap,,,24/09/2026 05:11
+582c359e-2b11-45a1-8a2c-c0c0b3ee8237,patrols.beer,available,1.24,26.08,medium,low,7,spaceship,,,29/09/2026 11:26
 d6dab6ce-4aba-4d07-bc33-cfa03f8d342a,restrict.beer,available,2.19,32.49,medium,low,8,namesilo,,,19/09/2026 17:10
 7c4ca249-c717-432d-a5fc-cbbe6e832442,destroys.beer,available,1.24,26.08,low,low,8,spaceship,,,29/09/2026 05:36
 eb246467-3418-4a00-a525-4b91b28033be,prelim.beer,available,1.98,43.98,high,medium,6,namecheap,,,09/09/2026 01:38
 67af2920-1268-4bdd-9a75-ed437ea55cfe,racial.beer,available,1.98,43.98,high,low,6,namecheap,,,09/09/2026 09:19
+7f5f3427-9f99-4b92-a5a0-bd9a38ed654f,higgs.beer,available,2.19,32.49,high,low,5,namesilo,,,29/09/2026 14:20
 e60d944f-ea41-400d-80ec-013962a314f9,louise.beer,available,2.19,32.49,high,low,6,namesilo,,,25/09/2026 13:47
-6e495bb5-3265-4915-8a39-03c6ce385f99,sargent.beer,premium,47.2,29.5,medium,low,7,namesilo,,,27/09/2026 04:36
+6e495bb5-3265-4915-8a39-03c6ce385f99,sargent.beer,premium,47.2,29.5,high,low,7,namesilo,,,27/09/2026 04:36
 3e51f86b-c49d-45b0-9fd3-3ff0d50f1a59,abel.beer,premium,52,32.5,high,low,4,namecheap,,,16/09/2026 14:57
 4483a99f-4ea5-47ec-82aa-3d745914d1ab,procurable.beer,available,1.98,43.98,medium,low,10,namecheap,,,18/08/2026 23:08
 3407b0bf-9eba-419c-8e4f-55fe30cc9743,glide.beer,available,2.19,32.49,high,medium,5,namesilo,,,19/09/2026 16:45
 cf358d8c-237a-4754-9030-2e0afcc64961,soundless.beer,available,1.98,43.98,high,medium,9,namecheap,,,10/09/2026 08:06
 5218d447-be71-46fd-bf81-943f66e731dd,sovereign.beer,available,2.19,32.49,high,medium,9,namesilo,,,22/09/2026 14:14
-492660c7-2433-424b-8987-37af6095b75e,despite.beer,available,,,high,low,7,,,,
 c6b96c67-faf9-4cf4-93e6-a22efbbd5bcf,passaic.beer,available,1.24,26.08,medium,low,7,spaceship,,,28/09/2026 16:45
 efcfe71d-82bd-43f7-8f76-2474bd484635,scaly.beer,available,1.98,43.98,medium,low,5,namecheap,,,23/08/2026 00:05
 473a46dd-a98a-4511-b973-080144da2910,when.beer,premium,52,32.5,high,low,4,namecheap,,,26/09/2026 10:08
@@ -819,15 +891,19 @@ bddfbc26-f636-4302-96a2-7ae59a90c52f,bistre.beer,available,2.19,32.49,medium,low
 67c999cc-8ec2-460b-ac35-eaf5e0b9b24b,sheeplike.beer,available,1.98,43.98,high,medium,9,namecheap,,,10/09/2026 06:18
 8fed69ac-50b1-4947-960b-876614061842,terror.beer,available,1.24,26.08,high,low,6,spaceship,,,28/09/2026 19:24
 a6cce4c1-8bbc-4394-949b-853ab4b7fdef,sports.beer,premium,104,31.2,high,medium,6,namecheap,,,
-c288b968-a179-4435-93e6-2ae6d93cfb38,rightist.beer,available,1.98,43.98,medium,low,8,namecheap,,,09/09/2026 17:31
+c288b968-a179-4435-93e6-2ae6d93cfb38,rightist.beer,available,1.98,43.98,high,low,8,namecheap,,,09/09/2026 17:31
 d04b5276-c5ec-4048-b0a3-bc1144baf4f1,european.beer,resell,,,high,low,8,Sav.com LLC,02/08/2026 20:43,02/08/2027 20:43,26/09/2026 05:54
 75a8a87d-cdf2-4597-9a6d-71f92e461936,growing.beer,available,1.98,43.98,high,low,7,namecheap,,,19/09/2026 05:23
+1ab18ea8-c5e8-43e5-977c-8ee2f94549b8,thackeray.beer,available,1.24,26.08,medium,low,9,spaceship,,,29/09/2026 14:03
 0809e683-6c47-4b01-9a8d-1ff2944182e9,velcro.beer,available,2.19,32.49,high,medium,6,namesilo,,,19/09/2026 10:11
-7a335cb6-5c6d-4b85-883e-257942f1af49,rushing.beer,available,1.54,26.26,medium,low,7,porkbun,,,27/09/2026 17:20
+7a335cb6-5c6d-4b85-883e-257942f1af49,rushing.beer,available,1.54,26.26,high,low,7,porkbun,,,27/09/2026 17:20
 e4f43be7-846f-4557-bb75-95bcc9e15cfc,suitcase.beer,available,1.24,26.08,high,low,8,spaceship,,,28/09/2026 06:48
+9d868ca9-9ab1-4546-9db3-12da10d2d87c,slapped.beer,available,1.98,43.98,low,low,7,namecheap,,,29/09/2026 23:39
 072dfbf6-6bcf-4130-a07f-d4ca3e1d558f,icons.beer,available,2.19,32.49,high,low,5,namesilo,,,
 8e134a10-321a-43d5-9a4c-19dfb0d79134,purge.beer,available,1.98,43.98,high,medium,5,namecheap,,,09/09/2026 06:19
+4666410b-5a4e-4ae9-bfe5-226d800a21ea,rufous.beer,available,2.19,32.49,high,low,6,namesilo,,,29/09/2026 22:57
 7e9ac27d-717b-4653-9270-be5b58de02dd,edo.beer,premium,41.6,26.08,high,low,3,spaceship,,,28/09/2026 01:23
+41a56342-f13d-4f1f-813a-f4ac4f7675ff,starr.beer,premium,,,high,low,5,"GoDaddy.com, LLC",05/03/2015 06:03,05/03/2027 06:03,29/09/2026 07:58
 03fa8bdc-dfc2-4bfc-b4ab-e0ae33f2e261,teetotal.beer,available,1.98,43.98,medium,low,8,namecheap,,,11/09/2026 10:14
 4626b41e-b93e-4dd1-951f-7679129de02c,academe.beer,available,1.98,43.98,high,low,7,namecheap,,,16/09/2026 20:22
 65869d8f-e676-423f-9313-c39deae955a9,special.beer,resell,,,high,low,7,"Sav.com, LLC - 10",06/09/2026 00:00,06/09/2027 00:00,26/09/2026 09:11
@@ -840,7 +916,7 @@ eb979faa-f466-49b5-8394-fe34953940ba,unlovable.beer,available,1.98,43.98,medium,
 b79cbbf0-d7b1-4c45-b027-20a1b4f79da9,eastern.beer,available,2.19,32.49,high,low,7,namesilo,,,24/09/2026 13:10
 58586f54-ebf3-4fd9-a9b9-6e1c97028955,insurgent.beer,available,1.98,43.98,medium,low,9,namecheap,,,22/08/2026 07:44
 c7a7de72-21e4-4d02-aab7-c7fc9190f6c8,happens.beer,available,43.98,,medium,low,7,namecheap,,,
-283d5777-0791-4bf6-905b-d3c1d290a96c,humoring.beer,available,1.98,43.98,medium,low,8,namecheap,,,05/09/2026 00:31
+283d5777-0791-4bf6-905b-d3c1d290a96c,humoring.beer,available,1.98,43.98,high,low,8,namecheap,,,05/09/2026 00:31
 63e39cbb-5ab3-4a01-9da8-d3e59be8b526,sere.beer,available,1.98,43.98,medium,low,4,namecheap,,,14/08/2026 19:03
 7cb3bea6-313a-4778-bf28-fc7f03343a53,marduk.beer,available,2.19,32.49,high,low,6,namesilo,,,21/09/2026 12:06
 afcae332-26d5-4bc0-8da0-1e04c86786a9,activism.beer,available,2.19,32.49,high,low,8,namesilo,,,17/09/2026 05:15
@@ -850,28 +926,33 @@ ae29e157-54b2-4a79-9979-e16919f45a9a,comma.beer,available,2.19,32.49,high,low,5,
 6f32edf7-399b-4d98-8199-94ca2c78bf7c,pester.beer,available,2.19,32.49,medium,low,6,namesilo,,,21/09/2026 17:02
 d2420d78-07a2-4f68-b8e7-1e63ee525a31,clanking.beer,available,1.98,43.98,medium,low,8,namecheap,,,12/08/2026 09:33
 64605c96-a882-4512-bf68-27f03ab81fea,manipulate.beer,available,1.24,26.08,high,low,10,spaceship,,,28/09/2026 05:48
+477dfecf-0246-4d63-a745-7e6f5b91f70c,tyre.beer,available,1.5,26.97,high,low,4,dynadot,,,29/09/2026 08:11
 f81d6e87-9a25-4620-aef8-e2163719105d,ash.beer,premium,414.2,26.08,high,medium,3,spaceship,,,28/09/2026 22:27
 0b201346-40c3-41f1-931f-2f980afc1041,completed.beer,available,1.98,43.98,high,low,9,namecheap,,,23/09/2026 17:22
 6c1d0552-cb6c-4769-9e01-87efd4600816,insignificant.beer,available,2.19,32.49,medium,low,13,namesilo,,,
 6be29089-0390-4469-8054-32f793efac33,azactam.beer,available,2.19,32.49,medium,low,7,namesilo,,,21/09/2026 10:59
-969b41ed-c3ea-457c-9a13-e6f3b3a21eb6,auberge.beer,available,2.19,32.49,medium,low,7,namesilo,,,21/09/2026 02:29
+969b41ed-c3ea-457c-9a13-e6f3b3a21eb6,auberge.beer,available,2.19,32.49,high,low,7,namesilo,,,21/09/2026 02:29
 1f1a8602-7ea8-4ba8-8ec9-5abe00a9102e,beware.beer,available,1.24,26.08,medium,low,6,spaceship,,,28/09/2026 20:49
 46e8ed72-7f25-47b5-a061-ac56aed49364,applejack.beer,available,1.98,43.98,high,low,9,namecheap,,,19/09/2026 21:35
 09e20715-6409-4bd5-b8a8-476abe8b28c0,batna.beer,available,2.19,32.49,medium,low,5,namesilo,,,22/09/2026 14:06
 e86930f5-e94e-4514-b195-8c1465d450dc,alkyne.beer,available,2.19,32.49,high,low,6,namesilo,,,17/09/2026 00:25
 1f6fc9ed-2b6b-42cd-9108-d4900dfcd00e,malefic.beer,available,1.98,43.98,medium,low,7,namecheap,,,24/08/2026 13:50
-471e788c-d4c6-4b79-94fc-b5c1275d406d,wording.beer,available,2.19,32.49,high,low,7,namesilo,,,
+471e788c-d4c6-4b79-94fc-b5c1275d406d,wording.beer,available,1.24,26.08,high,low,7,spaceship,,,29/09/2026 08:51
 cdf2125d-9336-4587-8685-dc1507a3faa3,greatness.beer,available,1.24,26.08,medium,low,9,spaceship,,,28/09/2026 17:18
+3befff07-4512-449a-ae86-e8e1b2f89867,gareth.beer,available,1.24,26.08,high,low,6,spaceship,,,29/09/2026 21:28
 6fba238c-972e-44ed-9e40-0c005ec94756,acceptive.beer,available,1.98,43.98,medium,low,9,namecheap,,,
 ec5cd240-81e3-4105-a3b0-d22c33c59b7d,centrical.beer,available,1.98,43.98,medium,low,9,namecheap,,,12/08/2026 00:12
 463d7caf-df52-4ef5-a123-d6171383abc4,hopefully.beer,available,25.2,25.2,high,low,9,cloudflare,,,28/09/2026 15:15
 24d7c9d7-dc5b-4cd7-954f-fe12eaf55d8f,bel.beer,premium,47.2,29.5,high,low,3,namesilo,,,23/09/2026 04:21
+0f3e7471-c9d3-4a91-a38a-3531120045c0,widows.beer,available,1.98,43.98,medium,low,6,namecheap,,,30/09/2026 00:25
 6feef262-2847-4dd2-9edd-9804862ae39d,transitory.beer,available,1.98,43.98,medium,low,10,namecheap,,,17/08/2026 10:19
 43dc14ea-9e38-4965-bc11-ad5cb81de46c,rudimentary.beer,available,2.19,32.49,high,low,11,namesilo,,,
+dd444969-23ec-49f1-a2d9-63affd00d126,soyuz.beer,available,25.2,25.2,high,low,5,cloudflare,,,29/09/2026 15:02
 e8e4b969-3de8-45d5-bb0e-43f12aff756f,prodromic.beer,available,1.98,43.98,medium,low,9,namecheap,,,09/09/2026 02:46
 d695e9ed-6b11-40cb-9f23-22e95c718b63,mold.beer,available,1.99,46.99,high,low,4,name.com,,,24/09/2026 15:22
 eb00b50f-677b-4548-a030-23b60c094b75,surveillance.beer,available,2.19,32.49,high,low,12,namesilo,,,27/09/2026 08:40
-1a3d077d-d238-4dec-acff-97b0d1d9edad,dupe.beer,available,1.98,43.98,medium,low,4,namecheap,,,12/08/2026 15:10
+a67c2110-fb83-407d-a62b-d7854e224521,villiers.beer,available,25.2,25.2,medium,low,8,cloudflare,,,29/09/2026 09:13
+1a3d077d-d238-4dec-acff-97b0d1d9edad,dupe.beer,available,1.98,43.98,high,low,4,namecheap,,,12/08/2026 15:10
 be6fb5a7-b23c-48ff-afab-bd8cb4c4802f,respectful.beer,available,2.19,32.49,high,low,10,namesilo,,,27/09/2026 12:44
 76f8839b-d60c-4b96-b150-d01e13949deb,diss.beer,available,2.19,32.49,medium,low,4,namesilo,,,17/09/2026 14:55
 e174e885-a931-46ef-81a9-0367cfa58a97,these.beer,available,2.19,32.49,medium,low,5,namesilo,,,
@@ -879,10 +960,10 @@ e174e885-a931-46ef-81a9-0367cfa58a97,these.beer,available,2.19,32.49,medium,low,
 c5c3ab50-a79b-4259-8e94-f7a554ad681e,stalemated.beer,available,1.99,46.99,low,low,10,name.com,,,13/08/2026 19:29
 99d32c64-228e-48fa-a7aa-ba99c16e8bb6,weakly.beer,available,1.99,46.99,medium,low,6,name.com,,,13/08/2026 20:38
 aa641c28-8745-45c9-b908-9c85bca472c9,headstrong.beer,available,1.98,43.98,medium,low,10,namecheap,,,18/08/2026 16:35
-66278946-a25c-4fb5-9853-b1ea7413280a,harrisburg.beer,available,2.19,32.49,medium,low,10,namesilo,,,25/09/2026 22:04
+66278946-a25c-4fb5-9853-b1ea7413280a,harrisburg.beer,available,2.19,32.49,high,low,10,namesilo,,,25/09/2026 22:04
 3858c623-fa4f-4fd7-8070-f2edb5f60e54,cunningham.beer,available,2.19,32.49,high,low,10,namesilo,,,25/09/2026 04:27
 6d584671-36a8-4fb9-8e5a-8b5d40aa4800,craze.beer,available,1.98,43.98,high,low,5,namecheap,,,24/09/2026 19:15
-df0cc0f2-626d-4144-b74c-0fe19f698cdd,overhanded.beer,available,1.98,43.98,medium,low,10,namecheap,,,04/09/2026 20:12
+df0cc0f2-626d-4144-b74c-0fe19f698cdd,overhanded.beer,available,1.98,43.98,high,low,10,namecheap,,,04/09/2026 20:12
 f1f27ba5-8f1a-4a45-8c9c-ddb344b43d23,convexly.beer,available,1.98,43.98,medium,low,8,namecheap,,,14/09/2026 08:39
 4de9c514-804f-4c18-8ae6-027a160697a6,flogging.beer,available,1.98,43.98,medium,low,8,namecheap,,,22/08/2026 20:16
 2f2dee6b-1981-4823-9932-2af2823d1394,taken.beer,available,2.19,32.49,high,low,5,namesilo,,,25/09/2026 10:20
@@ -910,6 +991,7 @@ c1e66602-9751-4129-a611-b64d21707105,betoken.beer,available,2.19,32.49,medium,lo
 cd4ad117-498b-40d9-a799-4ef13a9a1833,joker.beer,resell,,,high,low,5,,,,28/09/2026 19:34
 153b7f38-e54a-4be6-8870-7f0ec06fad92,tusked.beer,available,1.98,43.98,medium,low,6,namecheap,,,11/09/2026 21:29
 4c3dea9c-5ca6-4af5-9fcb-1c318b75a8bd,triclinic.beer,available,1.98,43.98,medium,low,9,namecheap,,,
+bfc81db2-3fa9-4fd5-96f7-a2b650524e4f,collectors.beer,available,1.24,26.08,high,low,10,spaceship,,,29/09/2026 17:58
 ea1558ca-2960-4280-a6d9-8eb7096cf379,settled.beer,available,1.98,43.98,high,low,7,namecheap,,,12/08/2026 17:27
 f828f9f4-ff5f-475d-b937-d2586d567d34,ascensive.beer,available,1.98,43.98,medium,low,9,namecheap,,,07/08/2026 00:46
 ca49d32a-c0ab-4e07-b49e-1bbb41c83ee7,ashland.beer,available,1.98,43.98,high,low,7,namecheap,,,27/09/2026 08:14
@@ -917,85 +999,3 @@ ca49d32a-c0ab-4e07-b49e-1bbb41c83ee7,ashland.beer,available,1.98,43.98,high,low,
 92086562-e8a6-4829-8968-e81886a33ef6,balagan.beer,available,2.19,32.49,medium,low,7,namesilo,,,21/09/2026 20:48
 0d388cbc-7a4a-40bb-add2-3b02b7c72917,alternate.beer,premium,2660,29.5,high,low,9,namesilo,,,22/09/2026 02:29
 54a67dc9-f0cb-4bfb-b293-1cf4aac40d10,holliday.beer,available,25.2,25.2,medium,low,8,cloudflare,,,29/09/2026 04:32
-8cfebf2a-fd0d-4b59-b056-139c863d8176,corporal.beer,available,1.98,43.98,high,low,8,namecheap,,,13/08/2026 01:52
-6c727987-0e18-4040-871a-be881a9f657e,actinidia.beer,available,2.19,32.49,medium,low,9,namesilo,,,17/09/2026 04:47
-d638232d-17fd-4003-9d00-f3e01e9523c6,gloam.beer,available,1.98,43.98,medium,low,5,namecheap,,,11/09/2026 21:43
-2309bbdb-c021-427e-a940-be821e09e79d,roomily.beer,available,1.98,43.98,medium,low,7,namecheap,,,16/09/2026 00:01
-219b5b1e-0a34-47a4-958d-33c1b5c8b489,blenny.beer,available,2.19,32.49,medium,low,6,namesilo,,,24/09/2026 06:00
-ea5cbf91-1bfc-4161-b3c0-5a0c5280e737,virago.beer,available,1.98,43.98,medium,low,6,namecheap,,,18/09/2026 16:19
-f8b2b0af-738c-4dd0-8ca6-ffdc88f112c7,steerable.beer,available,1.98,43.98,medium,low,9,namecheap,,,14/08/2026 09:00
-15687566-dd89-46bd-b6c3-89a56e1ffeb1,eventually.beer,available,1.98,43.98,high,low,10,namecheap,,,14/09/2026 16:32
-a57d6cd4-46ed-4134-b7da-0b8966f58edc,billiards.beer,available,2.19,32.49,high,low,9,namesilo,,,23/09/2026 16:23
-7db27045-eda8-46b5-9183-ed481459979e,reign.beer,available,1.98,43.98,high,medium,5,namecheap,,,09/09/2026 01:30
-1da386a3-c90f-4ddd-a65d-6449d2d42d4a,melanesian.beer,available,1.98,43.98,medium,low,10,namecheap,,,24/08/2026 19:29
-9cc59c1d-68ce-44ba-b8e2-00a575692528,hollows.beer,available,2.19,32.49,low,low,7,namesilo,,,20/09/2026 18:42
-ae51811a-961f-42dc-95a8-92220dc8f95f,result.beer,available,2.19,32.49,high,low,6,namesilo,,,
-00ed6080-0ddf-4050-a017-e6cda8377683,sniff.beer,available,2.19,32.49,high,low,5,namesilo,,,
-ea3943f3-6221-496e-9c16-67777afa93ff,niobium.beer,available,1.98,43.98,medium,low,7,namecheap,,,20/09/2026 23:04
-880f14b9-08a6-4e51-bd15-6d4a308c6a2e,preferable.beer,available,1.98,43.98,high,medium,10,namecheap,,,09/09/2026 01:36
-15c0f66c-757c-49a1-9f8a-8b7cf3c422f0,chavez.beer,available,25.2,25.2,high,low,6,cloudflare,,,28/09/2026 01:29
-8bd2d38b-8a2c-45f1-840d-2bed81d35031,corregidor.beer,available,2.19,32.49,medium,low,10,namesilo,,,22/09/2026 13:13
-59909f14-5b47-4ea9-ae4d-3426f7c9b5dd,aorta.beer,available,2.19,32.49,medium,low,5,namesilo,,,19/09/2026 16:04
-cf0923b6-8080-406c-be77-0fcd716918c9,cunning.beer,available,2.19,32.49,medium,low,7,namesilo,,,24/09/2026 01:26
-a0b44d9e-88b3-4962-909d-fa44c1e81fc5,pacifist.beer,available,1.98,43.98,high,low,8,namecheap,,,04/09/2026 22:35
-c84603ad-759b-493a-88bc-47724444a57d,undefined.beer,available,1.98,43.98,high,low,9,namecheap,,,12/09/2026 07:13
-f9c37da0-406c-4b88-80c2-fb102261a724,unsent.beer,available,1.98,43.98,medium,low,6,namecheap,,,12/09/2026 19:18
-5c477f35-7943-4fe0-a94c-5cb2931dc4e9,frequency.beer,available,1.98,43.98,high,low,9,namecheap,,,16/09/2026 17:49
-b382cf8c-baaa-4e63-b367-726ccc05142c,compromised.beer,available,1.24,26.08,low,low,11,spaceship,,,28/09/2026 13:03
-7f526710-5a5e-4135-8563-6001f2d27703,sergeant.beer,available,1.24,26.08,high,low,8,spaceship,,,28/09/2026 06:37
-8fa93d6c-1df7-40b3-a0eb-5fc210e8c5dd,libby.beer,available,2.19,32.49,high,low,5,namesilo,,,28/09/2026 02:15
-6902a924-81b8-4546-b268-3bee55bceadb,duodecimal.beer,available,1.98,43.98,medium,low,10,namecheap,,,14/08/2026 21:19
-914b6557-a462-46df-b028-8e515e7f72b3,ascot.beer,available,2.19,32.49,high,low,5,namesilo,,,20/09/2026 13:27
-cbe16dcd-59c1-45a0-964a-f201b7d13e46,axseed.beer,available,2.19,32.49,medium,low,6,namesilo,,,21/09/2026 10:31
-d44cc4ad-1d88-4647-abec-d87c4168adb8,mothy.beer,available,1.98,43.98,low,low,5,namecheap,,,25/08/2026 07:14
-0e600663-6970-4eb2-9054-383085f58e17,propeller.beer,available,2.19,32.49,high,low,9,namesilo,,,29/09/2026 01:54
-33c9ea44-0491-403f-91ca-aa052f08b73a,derisory.beer,available,1.98,43.98,medium,low,8,namecheap,,,14/08/2026 02:56
-20957c2e-155f-4a4d-9547-6375996fa219,slant.beer,available,1.98,43.98,high,low,5,namecheap,,,22/08/2026 22:07
-e1a43d7b-5621-4024-954d-c1e4d66e263b,aton.beer,available,1.98,43.98,medium,low,4,namecheap,,,20/09/2026 20:06
-02ae9d4d-0cdf-4603-bc22-c51bbec91909,roger.beer,available,2.19,32.49,high,low,5,namesilo,,,
-6b322b98-dcd0-44df-bff6-55dc19dd242c,trilingual.beer,available,1.98,43.98,high,low,10,namecheap,,,11/09/2026 19:48
-0cc0f211-dfb4-41f3-a24d-0202c1d827e1,criticize.beer,available,2.19,32.49,high,low,9,namesilo,,,
-a38d0e36-14e4-4d22-a876-9e72ad1b26f2,insurance.beer,available,,,high,medium,9,,,,
-53578a70-366b-4696-8671-b02ca6920a3c,prep.beer,available,2.19,32.49,high,low,4,namesilo,,,28/09/2026 02:07
-796d3a5d-40b5-4510-9e9c-c3655fef50eb,quercus.beer,available,1.5,26.97,high,low,7,dynadot,,,28/09/2026 05:49
-e398a0c4-a3e0-40a9-b8e2-6e316ea9b821,zimbabwean.beer,available,1.98,43.98,high,low,10,namecheap,,,13/09/2026 15:19
-c8d2ea2e-26f0-44f5-81bb-41f045b05745,bertolucci.beer,available,1.98,43.98,medium,low,10,namecheap,,,23/09/2026 09:50
-5638b82d-baed-45a6-a5a7-4081a1f44446,nosocomial.beer,available,1.98,43.98,low,low,10,namecheap,,,03/09/2026 21:56
-ae2e868f-5586-4c15-a9ab-63a0f02b4e3c,explicitly.beer,available,1.98,43.98,medium,low,10,namecheap,,,14/09/2026 17:07
-e0615e24-be5d-4622-ac17-c7ba7e314138,xcv.beer,premium,50,46.99,medium,low,3,name.com,,,
-94cff59c-763f-4d27-947b-5a20557d08fe,demurely.beer,available,1.98,43.98,medium,low,8,namecheap,,,14/09/2026 11:31
-2bf7838a-1fd5-433a-b0fe-2ffb0930febf,babysitter.beer,available,2.19,32.49,high,low,10,namesilo,,,21/09/2026 13:10
-fa6eb916-ad1b-4518-837c-fabf9bec922c,letup.beer,available,2.19,32.49,medium,low,6,namesilo,,,
-0aa7fe71-4397-4636-90ab-0fdb14c926f0,anon.beer,premium,52,32.5,high,low,4,namecheap,,,13/09/2026 20:01
-49731c20-a745-4121-8eb8-66967d0535c8,outer.beer,available,2.19,32.49,high,low,5,namesilo,,,
-0c255c06-f294-47ec-84c4-6e0462e8503b,tarzan.beer,available,1.24,26.08,high,low,6,spaceship,,,29/09/2026 02:18
-3aa82f7d-7b64-4a79-92c7-4419a4f27cbc,nmr.beer,premium,41.6,26.08,high,low,3,spaceship,,,28/09/2026 06:29
-7c8c2745-aea4-4783-a2a2-29038b5e87d6,pleasure.beer,available,2.19,32.49,high,low,8,namesilo,,,
-9a0b1bf7-ce25-4c68-86bb-d4bcbf01cfed,johnstown.beer,available,1.5,26.97,medium,low,9,dynadot,,,28/09/2026 22:27
-03d36f76-5366-4821-b9cf-b867e12a6f6c,dashingly.beer,available,1.98,43.98,medium,low,9,namecheap,,,14/09/2026 10:41
-7e7f4703-6199-49f2-a27d-d23f4ab19b83,muntjac.beer,available,1.98,43.98,medium,low,7,namecheap,,,22/09/2026 06:28
-c73f9d54-680d-4f0d-b6a9-e3c3817f2613,excision.beer,available,2.19,32.49,medium,low,8,namesilo,,,16/09/2026 16:06
-79c5612d-e7c8-4ea6-8ee0-ca7e7bdcf813,aspidistra.beer,available,2.19,32.49,medium,low,10,namesilo,,,20/09/2026 15:15
-d04c8659-627f-42d0-9078-de2a42a6d065,niffy.beer,available,1.98,43.98,low,low,5,namecheap,,,03/09/2026 17:10
-b4ad2254-c025-4981-b4c5-cd6245dfbf80,investigator.beer,available,25.2,25.2,high,low,12,cloudflare,,,28/09/2026 03:35
-acc59c07-a706-409c-94c0-face993fff03,dissolute.beer,available,1.99,46.99,medium,low,9,name.com,,,13/08/2026 20:19
-0d7db6ec-1549-45e1-95a6-e48d18e33e44,cursive.beer,available,1.98,43.98,high,low,7,namecheap,,,13/08/2026 11:36
-27e29d67-bc0a-4322-8339-25dc72da8899,musician.beer,available,1.24,26.08,high,low,8,spaceship,,,27/09/2026 14:17
-d1552f89-94ab-46cc-bc5b-105a2d26668d,bay.beer,premium,500,46.99,high,low,3,name.com,,,09/08/2026 02:26
-de9b2130-0bae-47d6-b5f6-f961332204a6,amebous.beer,available,,,medium,low,7,,,,
-97d14dbf-973e-4e64-b9de-0ea20a380a50,greenly.beer,available,1.98,43.98,medium,low,7,namecheap,,,14/09/2026 22:19
-1ede193f-829d-41b8-8860-b548010ebc4f,smallpox.beer,available,1.24,26.08,medium,low,8,spaceship,,,29/09/2026 02:12
-b70bc8c8-b002-4b1a-b106-8afa9b50286c,nucleated.beer,available,1.98,43.98,medium,low,9,namecheap,,,03/09/2026 22:22
-c9c2017e-983f-4438-ba6c-89beb5649203,fatal.beer,available,1.98,43.98,high,low,5,namecheap,,,23/09/2026 12:24
-cc35591f-d771-4c49-80cf-eea28b879836,plushy.beer,available,1.98,43.98,high,low,6,namecheap,,,24/08/2026 11:02
-30d155ca-94db-422d-a89d-0fe3b00b3eae,deathless.beer,available,1.99,46.99,medium,low,9,name.com,,,13/08/2026 20:02
-8dd18839-a594-49a3-adac-19bff1c0e87e,droning.beer,available,1.98,43.98,medium,low,7,namecheap,,,25/08/2026 05:28
-d9d1e3ed-8cfc-462a-ac10-0f677147d054,spectacle.beer,available,25.2,25.2,high,low,9,cloudflare,,,28/09/2026 20:32
-0e1a008a-b4df-4d89-9b73-c601918de590,livingstone.beer,available,1.24,26.08,high,low,11,spaceship,,,28/09/2026 04:32
-65be6b49-ca1b-4ea7-ba17-4d8d99da4aa9,cubbyhole.beer,available,1.98,43.98,high,medium,9,namecheap,,,10/09/2026 12:52
-d8d7e50d-1bd1-4965-ba37-71e93aaa601a,scranton.beer,premium,47.2,29.5,medium,low,8,namesilo,,,26/09/2026 00:14
-13043420-bc63-499c-a6e6-07f1a855173a,citizenship.beer,available,2.19,32.49,high,low,11,namesilo,,,
-8c7814d5-d718-4c1a-861e-35da157cadcb,barstow.beer,available,2.19,32.49,medium,low,7,namesilo,,,22/09/2026 08:54
-7cbdf840-15ce-41a1-bbfd-740799052bc8,jewels.beer,available,2.19,32.49,high,low,6,namesilo,,,18/09/2026 06:31
-d452f5e2-06b6-4434-b1cd-520fce53ee70,words.beer,available,2.19,32.49,high,low,5,namesilo,,,25/09/2026 15:51
-805c98be-7b8a-440f-ae07-7d8b605fb56d,combed.beer,available,1.98,43.98,medium,low,6,namecheap,,,12/08/2026 18:33
